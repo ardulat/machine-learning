@@ -1,0 +1,18 @@
+– Project Title:
+    Financial Forecasting using Machine Learning
+
+– The project idea (or problem definition):
+    Predict future actions (Hold, Buy, or Sell) that should be done by algorithmic traders based on technical indicators that describe price of a particular stock.
+
+– Data set: 
+    1. 'Dow-30' companies' stock data (technical indicators)
+
+– Software package that you will use:
+    1. PyTorch
+    2. Keras
+
+– Team members - up to three in each team, and their expected contributions:
+    1. Anuar Maratkhan
+
+– Review and include relevant literature (1-3 papers):
+    1. Omer Berat Sezer, Ahmet Murat Ozbayoglu. 2017. Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach. Applied Soft Computing
