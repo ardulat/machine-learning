@@ -86,7 +86,10 @@ if __name__ == "__main__":
             dataset.append(vector)
 
         dataset = np.array(dataset)
-        with open('data/'+stock_name+'_data.pkl', 'wb') as f:
+
+        if not os.path.exists('data/'+stock_name+'_data'):
+                os.mkdir('data/'+stock_name+'_data') # MAKE DIR
+        with open('data/'+stock_name+'_data/data.pkl', 'wb') as f:
             pickle.dump(dataset, f)
 
         print("ROWS: %d" % rows_total)

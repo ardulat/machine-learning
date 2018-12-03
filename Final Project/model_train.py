@@ -69,19 +69,6 @@ def data_augmentation(X_data, Y_data):
         labels[l:r] = additional_ind
         l = r
 
-        # if i == 1:
-        #     print('Buy')
-        # if i == 2:
-        #     print('Sell')
-            
-        # if i != 0:
-        #     fig, axs = plt.subplots(10)
-        #     for k in range(10):
-        #         print(X_data.shape, additional_ind[k])
-        #         axs[k].imshow(X_data[additional_ind[k], :, :], cmap='gray')
-        #     plt.show()
-
-
     return X_data[labels], Y_data[labels]
 
 
