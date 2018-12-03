@@ -9,7 +9,7 @@ import keras
 import pickle
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten
-from keras.layers import Conv2D, MaxPooling2D
+from keras.layers import Conv1D, MaxPooling1D
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 
@@ -19,29 +19,29 @@ label_map_reverse = {0:'Hold', 1:'Buy', 2:'Sell'}
 
 
 def get_paths(filepath):
-    images_paths = []
+    dataset_paths = []
     labels_paths = []
     stock_names = []
     for (dirpath, dirnames, filenames) in walk(filepath):
-        images_paths = [filepath + '/' + name for name in dirnames]
-        labels_paths = [filepath + '/' + name for name in filenames]
-        stock_names = [name.split('_')[0] for name in filenames]
+        dataset_paths = [filepath + '/' + name for name in dirnames]
+        labels_paths = [filepath + '/' + name for name in filenames if name != '.DS_Store']
+        stock_names = [name.split('_')[0] for name in filenames if name != '.DS_Store']
         break
-    images_paths.sort()
+    dataset_paths.sort()
     labels_paths.sort()
     stock_names.sort()
 
-    return images_paths, labels_paths, stock_names
+    return dataset_paths, labels_paths, stock_names
 
 
-def read_data(i_path, l_path, s_name):
+def read_data(d_path, l_path, s_name):
     
-    with open(i_path+'/data.pkl', 'rb') as f:
-        images = pickle.load(f)
+    with open(d_path+'/data.pkl', 'rb') as f:
+        dataset = pickle.load(f)
     
-    labels = np.zeros(len(images))
-    prices = np.zeros(len(images))
-    dates = np.empty(len(images), dtype='datetime64[s]')
+    labels = np.zeros(len(dataset))
+    prices = np.zeros(len(dataset))
+    dates = np.empty(len(dataset), dtype='datetime64[s]')
     with open(l_path, 'r') as f:
         for i, line in enumerate(f):
             info = line.strip().split(', ')
@@ -49,7 +49,7 @@ def read_data(i_path, l_path, s_name):
             prices[i] = info[2]
             labels[i] = label_map[info[3]]
 
-    return [images, dates, prices, labels]
+    return [dataset, dates, prices, labels]
 
 
 # make labels proportion equal to 80 hold/10 buy/10 sell
@@ -61,7 +61,6 @@ def data_augmentation(X_data, Y_data):
     labels_num = (proportion * labels_tot).astype(int)
     labels = np.arange(labels_num.sum())
     
-
     l = Y_data.shape[0]
     for i in range(labels_num.shape[0]):
         additional_ind = np.random.choice(labels_ind[i], labels_num[i] - labels_ind[i].shape[0])
@@ -72,11 +71,11 @@ def data_augmentation(X_data, Y_data):
     return X_data[labels], Y_data[labels]
 
 
-def data_processing(images, labels, augmentation):
+def data_processing(dataset, labels, augmentation):
     if augmentation:
-        images, labels = data_augmentation(images, labels)
+        dataset, labels = data_augmentation(dataset, labels)
     
-    X_data = images if len(images.shape) == 4 else images.reshape(images.shape[0], images.shape[1], images.shape[2], 1)
+    X_data = dataset if len(dataset.shape) == 3 else dataset.reshape(dataset.shape[0], dataset.shape[1], 1)
     Y_data = keras.utils.to_categorical(labels)
     input_shape = X_data.shape[1:]
 
@@ -88,21 +87,21 @@ def data_extraction(data, start_year, end_year, augmentation):
     s = r[0][0]
     e = r[-1][0]
 
-    images = data[0][s:e+1]
+    dataset = data[0][s:e+1]
     dates = data[1][s:e+1]
     prices = data[2][s:e+1]
     labels = data[3][s:e+1]
 
-    return data_processing(images, labels, augmentation), dates, prices
+    return data_processing(dataset, labels, augmentation), dates, prices
 
 
 def create_model(input_shape, num_classes):
     model = Sequential()
-    model.add(Conv2D(32, kernel_size=(3, 3),
+    model.add(Conv1D(32, kernel_size=(3),
                      activation='relu',
                      input_shape=input_shape))
-    model.add(Conv2D(64, (3, 3), activation='relu'))
-    model.add(MaxPooling2D(pool_size=(2, 2)))
+    model.add(Conv1D(64, (3), activation='relu'))
+    # model.add(MaxPooling1D(pool_size=(2, 2)))
     model.add(Dropout(0.25))
     model.add(Flatten())
     model.add(Dense(128, activation='relu'))
@@ -260,7 +259,7 @@ if __name__ == '__main__':
     results_dict['y_pred_sum'] = np.array([])
     results_dict['conf_matrix'] = np.zeros((3, 3))
     results_dict['prediction'] = {}
-    images_paths, labels_paths, stock_names = get_paths('./images')
+    images_paths, labels_paths, stock_names = get_paths('./data')
 
     for s_ind, (i_path, l_path, s_name) in enumerate(zip(images_paths, labels_paths, stock_names)):
         print("STOCK: %s" % s_name)
@@ -278,7 +277,7 @@ if __name__ == '__main__':
             
             (X_train, Y_train, input_shape), _, _ = data_extraction(data, (start_year - 5) + i, start_year + i, True)
             (X_test, Y_test, input_shape), dates, prices = data_extraction(data, start_year + i, (start_year + 1) + i, False)
-        
+
             p = multiprocessing.Process(target=train_process, args=(X_train, Y_train, X_test, Y_test, dates, prices, 2002 + i, results_dict, epochs))
             p.start()
             p.join()

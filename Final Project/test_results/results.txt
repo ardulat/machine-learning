@@ -1,0 +1,366 @@
+
+STOCK: AAPL
+Year: 2002. Number of samples: 251. Loss: 0.6378567316142686. Accuracy: 0.6414342627107384.
+Year: 2003. Number of samples: 253. Loss: 0.8009698848008168. Accuracy: 0.5059288535193492.
+Year: 2004. Number of samples: 252. Loss: 0.8176373073032924. Accuracy: 0.47619047335215975.
+Year: 2005. Number of samples: 252. Loss: 0.6752549130765219. Accuracy: 0.6150793669715761.
+Year: 2006. Number of samples: 252. Loss: 0.7955995457512992. Accuracy: 0.5436507917585827.
+Year: 2007. Number of samples: 250. Loss: 0.7293074436187744. Accuracy: 0.5680000009536743.
+Year: 2008. Number of samples: 252. Loss: 0.92461824890167. Accuracy: 0.3730158739619785.
+Year: 2009. Number of samples: 252. Loss: 0.9520159959793091. Accuracy: 0.349206347787191.
+Year: 2010. Number of samples: 252. Loss: 0.9383049332906329. Accuracy: 0.36507936602547053.
+Year: 2011. Number of samples: 252. Loss: 0.9350227855500721. Accuracy: 0.373015873015873.
+Total return: 126.56 %. Annualized return: 8.52 %.
+
+STOCK: AXP
+Year: 2002. Number of samples: 251. Loss: 0.873808867665401. Accuracy: 0.521912351072547.
+Year: 2003. Number of samples: 253. Loss: 1.1326488666383645. Accuracy: 0.2964426872169547.
+Year: 2004. Number of samples: 252. Loss: 1.1866104195988367. Accuracy: 0.30555555413639734.
+Year: 2005. Number of samples: 252. Loss: 0.8971370080160717. Accuracy: 0.400793652212809.
+Year: 2006. Number of samples: 252. Loss: 0.9176488253805373. Accuracy: 0.4325396815935771.
+Year: 2007. Number of samples: 250. Loss: 0.828351640701294. Accuracy: 0.48400000286102296.
+Year: 2008. Number of samples: 252. Loss: 1.0353281583104814. Accuracy: 0.2896825396825397.
+Year: 2009. Number of samples: 252. Loss: 0.7678489864818634. Accuracy: 0.5714285742668879.
+Year: 2010. Number of samples: 252. Loss: 0.862376782629225. Accuracy: 0.41269841317146544.
+Year: 2011. Number of samples: 252. Loss: 1.0257214970058866. Accuracy: 0.3055555546094501.
+Total return: 267.43 %. Annualized return: 13.90 %.
+
+STOCK: BA
+Year: 2002. Number of samples: 251. Loss: 0.9590858389656857. Accuracy: 0.4541832666948022.
+Year: 2003. Number of samples: 253. Loss: 0.9979234125774369. Accuracy: 0.4387351771588382.
+Year: 2004. Number of samples: 252. Loss: 0.9926956589259799. Accuracy: 0.36904761620930265.
+Year: 2005. Number of samples: 252. Loss: 1.180188475147126. Accuracy: 0.2857142857142857.
+Year: 2006. Number of samples: 252. Loss: 0.8770929357362172. Accuracy: 0.4285714276253231.
+Year: 2007. Number of samples: 250. Loss: 1.0337497863769531. Accuracy: 0.3200000009536743.
+Year: 2008. Number of samples: 252. Loss: 0.9710145280474708. Accuracy: 0.4087301587301587.
+Year: 2009. Number of samples: 252. Loss: 0.8889073984963554. Accuracy: 0.5476190485651531.
+Year: 2010. Number of samples: 252. Loss: 0.886798692128015. Accuracy: 0.49206349300959756.
+Year: 2011. Number of samples: 252. Loss: 0.9567887281614637. Accuracy: 0.40079365268586176.
+Total return: 119.76 %. Annualized return: 8.19 %.
+
+STOCK: CAT
+Year: 2002. Number of samples: 251. Loss: 0.9534010882396622. Accuracy: 0.40239043872194935.
+Year: 2003. Number of samples: 253. Loss: 1.00656849098771. Accuracy: 0.28063241259853833.
+Year: 2004. Number of samples: 252. Loss: 1.22047692064255. Accuracy: 0.26190476095865645.
+Year: 2005. Number of samples: 252. Loss: 0.8830133865750025. Accuracy: 0.4642857152318198.
+Year: 2006. Number of samples: 252. Loss: 0.8626156099258907. Accuracy: 0.47619047571742346.
+Year: 2007. Number of samples: 250. Loss: 0.779195761680603. Accuracy: 0.58.
+Year: 2008. Number of samples: 252. Loss: 0.879400684719994. Accuracy: 0.4563492068222591.
+Year: 2009. Number of samples: 252. Loss: 0.8883036829176403. Accuracy: 0.42063492110797335.
+Year: 2010. Number of samples: 252. Loss: 0.9156989616061014. Accuracy: 0.4841269827078259.
+Year: 2011. Number of samples: 252. Loss: 1.0248967863264538. Accuracy: 0.3611111120572166.
+Total return: -2.93 %. Annualized return: -0.30 %.
+
+STOCK: CSCO
+Year: 2002. Number of samples: 251. Loss: 0.7583648702537871. Accuracy: 0.5697211169626608.
+Year: 2003. Number of samples: 253. Loss: 0.9657290358788411. Accuracy: 0.36363636304738495.
+Year: 2004. Number of samples: 252. Loss: 0.9552359902669513. Accuracy: 0.4166666695049831.
+Year: 2005. Number of samples: 252. Loss: 0.7848494544861808. Accuracy: 0.5277777768316723.
+Year: 2006. Number of samples: 252. Loss: 1.0554060141245525. Accuracy: 0.3174603188794757.
+Year: 2007. Number of samples: 250. Loss: 1.0186565470695497. Accuracy: 0.324.
+Year: 2008. Number of samples: 252. Loss: 0.9429383240048848. Accuracy: 0.400793652212809.
+Year: 2009. Number of samples: 252. Loss: 0.9044157247694712. Accuracy: 0.503968253968254.
+Year: 2010. Number of samples: 252. Loss: 0.7719126040973361. Accuracy: 0.5039682511299376.
+Year: 2011. Number of samples: 252. Loss: 0.7936560312906901. Accuracy: 0.47619047902879263.
+Total return: 215.44 %. Annualized return: 12.17 %.
+
+STOCK: CVX
+Year: 2002. Number of samples: 251. Loss: 0.850659174748151. Accuracy: 0.4462151399171685.
+Year: 2003. Number of samples: 253. Loss: 0.9336189620579656. Accuracy: 0.3794466389026566.
+Year: 2004. Number of samples: 252. Loss: 0.8646109283916534. Accuracy: 0.4523809542731633.
+Year: 2005. Number of samples: 252. Loss: 0.9652837060746693. Accuracy: 0.38492063539368765.
+Year: 2006. Number of samples: 252. Loss: 0.799318686364189. Accuracy: 0.567460318406423.
+Year: 2007. Number of samples: 250. Loss: 0.8827588181495667. Accuracy: 0.44800000047683713.
+Year: 2008. Number of samples: 252. Loss: 0.9184404488593813. Accuracy: 0.3849206335014767.
+Year: 2009. Number of samples: 252. Loss: 0.8604598054810176. Accuracy: 0.46031746126356576.
+Year: 2010. Number of samples: 252. Loss: 1.0251136762755257. Accuracy: 0.2976190480921004.
+Year: 2011. Number of samples: 252. Loss: 0.8913060701082623. Accuracy: 0.4642857152318198.
+Total return: 65.82 %. Annualized return: 5.19 %.
+
+STOCK: DIS
+Year: 2002. Number of samples: 251. Loss: 0.8234768519363556. Accuracy: 0.5019920323474474.
+Year: 2003. Number of samples: 253. Loss: 0.9903676644144322. Accuracy: 0.3596837942308117.
+Year: 2004. Number of samples: 252. Loss: 1.181846835310497. Accuracy: 0.29761904667294214.
+Year: 2005. Number of samples: 252. Loss: 0.8735776600383577. Accuracy: 0.44444444728276084.
+Year: 2006. Number of samples: 252. Loss: 0.9017026443330068. Accuracy: 0.40079365103017717.
+Year: 2007. Number of samples: 250. Loss: 0.7833995962142944. Accuracy: 0.5480000028610229.
+Year: 2008. Number of samples: 252. Loss: 0.9259523995338924. Accuracy: 0.4166666666666667.
+Year: 2009. Number of samples: 252. Loss: 0.7484863741057259. Accuracy: 0.5158730168191213.
+Year: 2010. Number of samples: 252. Loss: 0.8957848615116544. Accuracy: 0.43253968348578803.
+Year: 2011. Number of samples: 252. Loss: 0.8597261347467937. Accuracy: 0.5277777782508305.
+Total return: 212.83 %. Annualized return: 12.08 %.
+
+STOCK: DWDP
+Year: 2002. Number of samples: 251. Loss: 0.8014718061424346. Accuracy: 0.4820717124943714.
+Year: 2003. Number of samples: 253. Loss: 1.0358402733746253. Accuracy: 0.249011857648612.
+Year: 2004. Number of samples: 252. Loss: 1.8129862565842887. Accuracy: 0.2857142864238648.
+Year: 2005. Number of samples: 252. Loss: 0.9790351561137608. Accuracy: 0.3849206358667404.
+Year: 2006. Number of samples: 252. Loss: 0.9872823045367286. Accuracy: 0.3571428573793835.
+Year: 2007. Number of samples: 250. Loss: 0.9352446012496948. Accuracy: 0.42000000035762786.
+Year: 2008. Number of samples: 252. Loss: 0.9177336721193223. Accuracy: 0.41269841317146544.
+Year: 2009. Number of samples: 252. Loss: 0.6159846763762217. Accuracy: 0.6984126993588039.
+Year: 2010. Number of samples: 252. Loss: 0.8357529403671385. Accuracy: 0.4880952366760799.
+Year: 2011. Number of samples: 252. Loss: 0.855449810860649. Accuracy: 0.4603174588983021.
+Total return: -26.78 %. Annualized return: -3.07 %.
+
+STOCK: GE
+Year: 2002. Number of samples: 251. Loss: 0.8300204740102548. Accuracy: 0.4621513925225611.
+Year: 2003. Number of samples: 253. Loss: 1.082352117587455. Accuracy: 0.3201581021778197.
+Year: 2004. Number of samples: 252. Loss: 1.3900812031730774. Accuracy: 0.2896825411016979.
+Year: 2005. Number of samples: 252. Loss: 1.092442853110177. Accuracy: 0.3492063499159283.
+Year: 2006. Number of samples: 252. Loss: 1.0124852524863348. Accuracy: 0.3452380954746216.
+Year: 2007. Number of samples: 250. Loss: 0.9264326877593995. Accuracy: 0.36400000035762786.
+Year: 2008. Number of samples: 252. Loss: 0.7552162002003382. Accuracy: 0.5634920615998525.
+Year: 2009. Number of samples: 252. Loss: 0.8816507610063704. Accuracy: 0.408730158257106.
+Year: 2010. Number of samples: 252. Loss: 0.8495421627211193. Accuracy: 0.44841269841269843.
+Year: 2011. Number of samples: 252. Loss: 0.9214480500372629. Accuracy: 0.4444444439713917.
+Total return: 21.27 %. Annualized return: 1.95 %.
+
+STOCK: HD
+Year: 2002. Number of samples: 251. Loss: 0.9151226486342837. Accuracy: 0.41832669441443515.
+Year: 2003. Number of samples: 253. Loss: 1.0775074803310891. Accuracy: 0.3794466397272268.
+Year: 2004. Number of samples: 252. Loss: 1.188812399667407. Accuracy: 0.2619047633239201.
+Year: 2005. Number of samples: 252. Loss: 0.9559707244237264. Accuracy: 0.4523809528540051.
+Year: 2006. Number of samples: 252. Loss: 0.9543539929011512. Accuracy: 0.3968253970619232.
+Year: 2007. Number of samples: 250. Loss: 0.9989331297874451. Accuracy: 0.26000000071525575.
+Year: 2008. Number of samples: 252. Loss: 0.7882268892394172. Accuracy: 0.5595238066854931.
+Year: 2009. Number of samples: 252. Loss: 0.9020035437175206. Accuracy: 0.43650793461572557.
+Year: 2010. Number of samples: 252. Loss: 0.8150359307016645. Accuracy: 0.5515873001681434.
+Year: 2011. Number of samples: 252. Loss: 0.8986698124143813. Accuracy: 0.4484126998318566.
+Total return: 120.01 %. Annualized return: 8.20 %.
+
+STOCK: IBM
+Year: 2002. Number of samples: 251. Loss: 0.858324856634634. Accuracy: 0.47808765058973396.
+Year: 2003. Number of samples: 253. Loss: 0.9216901709439727. Accuracy: 0.4347826072821033.
+Year: 2004. Number of samples: 252. Loss: 0.9960312020210993. Accuracy: 0.4126984155367291.
+Year: 2005. Number of samples: 252. Loss: 0.8209218893732343. Accuracy: 0.5357142857142857.
+Year: 2006. Number of samples: 252. Loss: 0.8124847610791525. Accuracy: 0.5714285742668879.
+Year: 2007. Number of samples: 250. Loss: 0.8722632198333741. Accuracy: 0.4520000023841858.
+Year: 2008. Number of samples: 252. Loss: 0.9821958655402774. Accuracy: 0.36904761904761907.
+Year: 2009. Number of samples: 252. Loss: 0.9622698965526763. Accuracy: 0.301587301823828.
+Year: 2010. Number of samples: 252. Loss: 0.9936954416925945. Accuracy: 0.3333333328602806.
+Year: 2011. Number of samples: 252. Loss: 1.047694984882597. Accuracy: 0.35317460128239225.
+Total return: 32.72 %. Annualized return: 2.87 %.
+
+STOCK: INTC
+Year: 2002. Number of samples: 251. Loss: 0.8269575808152735. Accuracy: 0.4860557773673677.
+Year: 2003. Number of samples: 253. Loss: 0.9981251300088031. Accuracy: 0.30434782761830115.
+Year: 2004. Number of samples: 252. Loss: 1.0729200177722507. Accuracy: 0.4007936517397563.
+Year: 2005. Number of samples: 252. Loss: 0.9441958277944534. Accuracy: 0.43253968301273527.
+Year: 2006. Number of samples: 252. Loss: 0.9696705587326534. Accuracy: 0.36904762046677725.
+Year: 2007. Number of samples: 250. Loss: 0.755711184501648. Accuracy: 0.5600000028610229.
+Year: 2008. Number of samples: 252. Loss: 0.8680783179071214. Accuracy: 0.5039682525490957.
+Year: 2009. Number of samples: 252. Loss: 0.8055503264306083. Accuracy: 0.5079365084095607.
+Year: 2010. Number of samples: 252. Loss: 0.8622880909177992. Accuracy: 0.4365079365079365.
+Year: 2011. Number of samples: 252. Loss: 0.9296049381059314. Accuracy: 0.341269841742894.
+Total return: 33.05 %. Annualized return: 2.90 %.
+
+STOCK: JNJ
+Year: 2002. Number of samples: 251. Loss: 0.9894770901516614. Accuracy: 0.38645418279199484.
+Year: 2003. Number of samples: 253. Loss: 0.9411214627767269. Accuracy: 0.3596837939363223.
+Year: 2004. Number of samples: 252. Loss: 0.9938339146356734. Accuracy: 0.3571428557236989.
+Year: 2005. Number of samples: 252. Loss: 0.8791754803960286. Accuracy: 0.4206349215810261.
+Year: 2006. Number of samples: 252. Loss: 0.9296788279972379. Accuracy: 0.39682539729844957.
+Year: 2007. Number of samples: 250. Loss: 0.861090895652771. Accuracy: 0.448.
+Year: 2008. Number of samples: 252. Loss: 0.8697139204494537. Accuracy: 0.4642857142857143.
+Year: 2009. Number of samples: 252. Loss: 0.7408397907302493. Accuracy: 0.547619050457364.
+Year: 2010. Number of samples: 252. Loss: 0.795770163573916. Accuracy: 0.5238095219173129.
+Year: 2011. Number of samples: 252. Loss: 0.7870484079633441. Accuracy: 0.5793650803111848.
+Total return: 107.65 %. Annualized return: 7.58 %.
+
+STOCK: JPM
+Year: 2002. Number of samples: 251. Loss: 0.9357957645241483. Accuracy: 0.35458167354424164.
+Year: 2003. Number of samples: 253. Loss: 1.0621888138088784. Accuracy: 0.33992094802762207.
+Year: 2004. Number of samples: 252. Loss: 1.1622601142005315. Accuracy: 0.28968253873643424.
+Year: 2005. Number of samples: 252. Loss: 0.9133034906690083. Accuracy: 0.4365079365079365.
+Year: 2006. Number of samples: 252. Loss: 0.8952430940809704. Accuracy: 0.404761904288852.
+Year: 2007. Number of samples: 250. Loss: 0.875807107925415. Accuracy: 0.46800000190734864.
+Year: 2008. Number of samples: 252. Loss: 0.8383721037516518. Accuracy: 0.476190474771318.
+Year: 2009. Number of samples: 252. Loss: 0.7534111113775344. Accuracy: 0.5873015854093764.
+Year: 2010. Number of samples: 252. Loss: 0.8993544531246972. Accuracy: 0.4047619028696938.
+Year: 2011. Number of samples: 252. Loss: 1.0246528935810877. Accuracy: 0.39285714356672197.
+Total return: 157.30 %. Annualized return: 9.91 %.
+
+STOCK: KO
+Year: 2002. Number of samples: 251. Loss: 0.9011641125755007. Accuracy: 0.38645418362313533.
+Year: 2003. Number of samples: 253. Loss: 0.9691006437591885. Accuracy: 0.3913043454701721.
+Year: 2004. Number of samples: 252. Loss: 0.832189749157618. Accuracy: 0.5317460336382427.
+Year: 2005. Number of samples: 252. Loss: 0.8227393135191903. Accuracy: 0.6111111111111112.
+Year: 2006. Number of samples: 252. Loss: 0.7908965547879537. Accuracy: 0.5515873006411961.
+Year: 2007. Number of samples: 250. Loss: 0.7695899338722229. Accuracy: 0.5680000028610229.
+Year: 2008. Number of samples: 252. Loss: 0.8231884856072683. Accuracy: 0.5277777768316723.
+Year: 2009. Number of samples: 252. Loss: 0.920894205570221. Accuracy: 0.4523809523809524.
+Year: 2010. Number of samples: 252. Loss: 0.864712119102478. Accuracy: 0.40476190618106295.
+Year: 2011. Number of samples: 252. Loss: 0.8216262185384356. Accuracy: 0.4841269850730896.
+Total return: 217.25 %. Annualized return: 12.24 %.
+
+STOCK: MCD
+Year: 2002. Number of samples: 251. Loss: 0.6800277458719048. Accuracy: 0.6294820707632726.
+Year: 2003. Number of samples: 253. Loss: 0.8555182904122847. Accuracy: 0.462450593120967.
+Year: 2004. Number of samples: 252. Loss: 0.8464082507860093. Accuracy: 0.5158730187113323.
+Year: 2005. Number of samples: 252. Loss: 0.7196208181835356. Accuracy: 0.6666666666666666.
+Year: 2006. Number of samples: 252. Loss: 0.7965121448986114. Accuracy: 0.5119047600125509.
+Year: 2007. Number of samples: 250. Loss: 0.8143669600486756. Accuracy: 0.54.
+Year: 2008. Number of samples: 252. Loss: 0.8299404051568773. Accuracy: 0.4761904766635289.
+Year: 2009. Number of samples: 252. Loss: 0.9473823129184662. Accuracy: 0.31746031746031744.
+Year: 2010. Number of samples: 252. Loss: 0.9391091078046768. Accuracy: 0.3968253954062386.
+Year: 2011. Number of samples: 252. Loss: 0.8529443352941483. Accuracy: 0.5079365098287189.
+Total return: 93.93 %. Annualized return: 6.85 %.
+
+STOCK: MMM
+Year: 2002. Number of samples: 251. Loss: 0.910849045472316. Accuracy: 0.406374500685954.
+Year: 2003. Number of samples: 253. Loss: 1.018328927722373. Accuracy: 0.25691699681310315.
+Year: 2004. Number of samples: 252. Loss: 1.0254087996861292. Accuracy: 0.40873015731100054.
+Year: 2005. Number of samples: 252. Loss: 0.9500419875932118. Accuracy: 0.39285714143798467.
+Year: 2006. Number of samples: 252. Loss: 0.9781398565050156. Accuracy: 0.38095238095238093.
+Year: 2007. Number of samples: 250. Loss: 0.8761137461662293. Accuracy: 0.46000000071525576.
+Year: 2008. Number of samples: 252. Loss: 0.8063833817603097. Accuracy: 0.5634920615998525.
+Year: 2009. Number of samples: 252. Loss: 0.7307921998084538. Accuracy: 0.6468253996637132.
+Year: 2010. Number of samples: 252. Loss: 0.8629197790509179. Accuracy: 0.49206349111738656.
+Year: 2011. Number of samples: 252. Loss: 0.8326004289445423. Accuracy: 0.4801587301587302.
+Total return: 194.03 %. Annualized return: 11.39 %.
+
+STOCK: MRK
+Year: 2002. Number of samples: 251. Loss: 0.8939559773144969. Accuracy: 0.4023904363472623.
+Year: 2003. Number of samples: 253. Loss: 1.0624898615561926. Accuracy: 0.332015808863131.
+Year: 2004. Number of samples: 252. Loss: 1.073818564414978. Accuracy: 0.3333333342794388.
+Year: 2005. Number of samples: 252. Loss: 0.9215103189150492. Accuracy: 0.440476189530085.
+Year: 2006. Number of samples: 252. Loss: 0.9248011613649035. Accuracy: 0.3333333342794388.
+Year: 2007. Number of samples: 250. Loss: 0.9559644775390626. Accuracy: 0.3720000014305115.
+Year: 2008. Number of samples: 252. Loss: 0.7605224582884047. Accuracy: 0.5436507936507936.
+Year: 2009. Number of samples: 252. Loss: 0.8018495648626297. Accuracy: 0.49206349111738656.
+Year: 2010. Number of samples: 252. Loss: 0.8359093543082948. Accuracy: 0.47619047902879263.
+Year: 2011. Number of samples: 252. Loss: 0.8856260975201925. Accuracy: 0.3928571438032483.
+Total return: 118.00 %. Annualized return: 8.10 %.
+
+STOCK: MSFT
+Year: 2002. Number of samples: 251. Loss: 0.8799621063874538. Accuracy: 0.4143426290071343.
+Year: 2003. Number of samples: 253. Loss: 0.8929323575242235. Accuracy: 0.4466403147919847.
+Year: 2004. Number of samples: 252. Loss: 1.1070572024299985. Accuracy: 0.3769841298224434.
+Year: 2005. Number of samples: 252. Loss: 0.9290519309422326. Accuracy: 0.41666666477445574.
+Year: 2006. Number of samples: 252. Loss: 0.9076649631772723. Accuracy: 0.4246031731840164.
+Year: 2007. Number of samples: 250. Loss: 0.7898432078361511. Accuracy: 0.532000002861023.
+Year: 2008. Number of samples: 252. Loss: 0.8511476242353045. Accuracy: 0.5158730187113323.
+Year: 2009. Number of samples: 252. Loss: 0.8193353092859662. Accuracy: 0.4880952371491326.
+Year: 2010. Number of samples: 252. Loss: 0.8540668686230978. Accuracy: 0.49603174887006246.
+Year: 2011. Number of samples: 252. Loss: 0.8853406329003591. Accuracy: 0.4285714276253231.
+Total return: 217.95 %. Annualized return: 12.26 %.
+
+STOCK: NKE
+Year: 2002. Number of samples: 251. Loss: 0.7351842733968301. Accuracy: 0.5816733055855648.
+Year: 2003. Number of samples: 253. Loss: 0.8869285088753983. Accuracy: 0.45849802442218945.
+Year: 2004. Number of samples: 252. Loss: 0.9066243218997169. Accuracy: 0.4801587301587302.
+Year: 2005. Number of samples: 252. Loss: 0.5963738967501928. Accuracy: 0.6944444463366554.
+Year: 2006. Number of samples: 252. Loss: 0.7146545695880103. Accuracy: 0.5992063510985601.
+Year: 2007. Number of samples: 250. Loss: 0.6195487680435181. Accuracy: 0.6639999985694885.
+Year: 2008. Number of samples: 252. Loss: 0.6783133943875631. Accuracy: 0.6428571428571429.
+Year: 2009. Number of samples: 252. Loss: 0.8298292003926777. Accuracy: 0.5833333342794388.
+Year: 2010. Number of samples: 252. Loss: 0.7880604919933137. Accuracy: 0.5674603174603174.
+Year: 2011. Number of samples: 252. Loss: 0.8413678965871296. Accuracy: 0.5357142828759693.
+Total return: 367.64 %. Annualized return: 16.68 %.
+
+STOCK: PFE
+Year: 2002. Number of samples: 251. Loss: 0.8641970900900335. Accuracy: 0.426294821904475.
+Year: 2003. Number of samples: 253. Loss: 1.0794735063206067. Accuracy: 0.3201581013532495.
+Year: 2004. Number of samples: 252. Loss: 1.0048724195313832. Accuracy: 0.424603177441491.
+Year: 2005. Number of samples: 252. Loss: 0.9265870508693513. Accuracy: 0.428571429517534.
+Year: 2006. Number of samples: 252. Loss: 0.7533304019579812. Accuracy: 0.5436507927046882.
+Year: 2007. Number of samples: 250. Loss: 0.8552891869544983. Accuracy: 0.508.
+Year: 2008. Number of samples: 252. Loss: 0.7689864067804246. Accuracy: 0.563492064438169.
+Year: 2009. Number of samples: 252. Loss: 0.7603264299650041. Accuracy: 0.535714285241233.
+Year: 2010. Number of samples: 252. Loss: 0.84843700556528. Accuracy: 0.4682539701461792.
+Year: 2011. Number of samples: 252. Loss: 0.8231793897492545. Accuracy: 0.4920634949018085.
+Total return: 108.11 %. Annualized return: 7.60 %.
+
+STOCK: PG
+Year: 2002. Number of samples: 251. Loss: 0.7416276435453103. Accuracy: 0.6135458155457242.
+Year: 2003. Number of samples: 253. Loss: 0.9500457538446418. Accuracy: 0.3636363635185679.
+Year: 2004. Number of samples: 252. Loss: 1.0400175281933375. Accuracy: 0.3611111096919529.
+Year: 2005. Number of samples: 252. Loss: 0.9790002448218209. Accuracy: 0.3769841255649688.
+Year: 2006. Number of samples: 252. Loss: 0.9657348460621304. Accuracy: 0.3690476181015136.
+Year: 2007. Number of samples: 250. Loss: 0.9439819102287292. Accuracy: 0.3680000009536743.
+Year: 2008. Number of samples: 252. Loss: 0.8035882739793687. Accuracy: 0.5555555555555556.
+Year: 2009. Number of samples: 252. Loss: 0.7617705445440989. Accuracy: 0.55555555460945.
+Year: 2010. Number of samples: 252. Loss: 0.9342868999829368. Accuracy: 0.4325396815935771.
+Year: 2011. Number of samples: 252. Loss: 0.7922523494750734. Accuracy: 0.5158730158730159.
+Total return: 102.29 %. Annualized return: 7.30 %.
+
+STOCK: TRV
+Year: 2002. Number of samples: 251. Loss: 0.789068599858607. Accuracy: 0.501992032228713.
+Year: 2003. Number of samples: 253. Loss: 0.9520129886540499. Accuracy: 0.4268774705913227.
+Year: 2004. Number of samples: 252. Loss: 0.9969120583836995. Accuracy: 0.4563492044569954.
+Year: 2005. Number of samples: 252. Loss: 0.7038873803047907. Accuracy: 0.6230158701775566.
+Year: 2006. Number of samples: 252. Loss: 0.7973142360884046. Accuracy: 0.5674603155681065.
+Year: 2007. Number of samples: 250. Loss: 0.7177907867431641. Accuracy: 0.6679999985694886.
+Year: 2008. Number of samples: 252. Loss: 0.7888179355197482. Accuracy: 0.5119047614317092.
+Year: 2009. Number of samples: 252. Loss: 0.7908546602915204. Accuracy: 0.547619050457364.
+Year: 2010. Number of samples: 252. Loss: 0.8283797398446098. Accuracy: 0.4960317441395351.
+Year: 2011. Number of samples: 252. Loss: 0.8270233320811439. Accuracy: 0.46031746079051306.
+Total return: 1363.72 %. Annualized return: 30.78 %.
+
+STOCK: UNH
+Year: 2002. Number of samples: 251. Loss: 0.811766144763901. Accuracy: 0.5498007978813582.
+Year: 2003. Number of samples: 253. Loss: 1.1403474435504717. Accuracy: 0.19762845796794287.
+Year: 2004. Number of samples: 252. Loss: 1.0270151297251384. Accuracy: 0.3452380947650425.
+Year: 2005. Number of samples: 252. Loss: 0.9024847357992142. Accuracy: 0.43253968348578803.
+Year: 2006. Number of samples: 252. Loss: 0.9901260761987596. Accuracy: 0.38095238095238093.
+Year: 2007. Number of samples: 250. Loss: 0.9061589980125427. Accuracy: 0.47199999952316285.
+Year: 2008. Number of samples: 252. Loss: 0.8540807678585961. Accuracy: 0.5317460307999263.
+Year: 2009. Number of samples: 252. Loss: 0.8362521008839683. Accuracy: 0.5317460307999263.
+Year: 2010. Number of samples: 252. Loss: 0.7085902577354795. Accuracy: 0.6904761885839795.
+Year: 2011. Number of samples: 252. Loss: 0.8842204118531848. Accuracy: 0.5238095228634183.
+Total return: 55.95 %. Annualized return: 4.54 %.
+
+STOCK: UTX
+Year: 2002. Number of samples: 251. Loss: 0.8645300321370007. Accuracy: 0.466135457929862.
+Year: 2003. Number of samples: 253. Loss: 1.0006055242930476. Accuracy: 0.35177865559640137.
+Year: 2004. Number of samples: 252. Loss: 0.9695311491451566. Accuracy: 0.37698412793023245.
+Year: 2005. Number of samples: 252. Loss: 1.0692060145120772. Accuracy: 0.2777777777777778.
+Year: 2006. Number of samples: 252. Loss: 0.9511966222808474. Accuracy: 0.35714285856201533.
+Year: 2007. Number of samples: 250. Loss: 0.8538153328895569. Accuracy: 0.46799999952316285.
+Year: 2008. Number of samples: 252. Loss: 0.9190746839084323. Accuracy: 0.4444444449174972.
+Year: 2009. Number of samples: 252. Loss: 0.8728432882399786. Accuracy: 0.45634920587615363.
+Year: 2010. Number of samples: 252. Loss: 0.9428961977126107. Accuracy: 0.41269841317146544.
+Year: 2011. Number of samples: 252. Loss: 0.9344464540481567. Accuracy: 0.4087301592032115.
+Total return: 38.19 %. Annualized return: 3.29 %.
+
+STOCK: VZ
+Year: 2002. Number of samples: 251. Loss: 0.825285108203432. Accuracy: 0.46215139323496723.
+Year: 2003. Number of samples: 253. Loss: 0.910314566061902. Accuracy: 0.45849802312643634.
+Year: 2004. Number of samples: 252. Loss: 0.9955894246933952. Accuracy: 0.3095238097603359.
+Year: 2005. Number of samples: 252. Loss: 0.984536473713224. Accuracy: 0.321428570482466.
+Year: 2006. Number of samples: 252. Loss: 0.7835521688536992. Accuracy: 0.5198412684221116.
+Year: 2007. Number of samples: 250. Loss: 0.8428000893592834. Accuracy: 0.5119999985694885.
+Year: 2008. Number of samples: 252. Loss: 0.9598910070600963. Accuracy: 0.30555555697471376.
+Year: 2009. Number of samples: 252. Loss: 0.944854251922123. Accuracy: 0.3690476195206718.
+Year: 2010. Number of samples: 252. Loss: 0.9705203440454271. Accuracy: 0.3571428552506462.
+Year: 2011. Number of samples: 252. Loss: 0.888944581387535. Accuracy: 0.4246031736570691.
+Total return: 109.63 %. Annualized return: 7.68 %.
+
+STOCK: WMT
+Year: 2002. Number of samples: 251. Loss: 0.882242919914276. Accuracy: 0.42231075566603365.
+Year: 2003. Number of samples: 253. Loss: 0.8723689918461525. Accuracy: 0.47035572886938165.
+Year: 2004. Number of samples: 252. Loss: 0.8730408700685652. Accuracy: 0.4722222193839058.
+Year: 2005. Number of samples: 252. Loss: 0.8143393832539755. Accuracy: 0.5000000028383165.
+Year: 2006. Number of samples: 252. Loss: 0.9650017552905612. Accuracy: 0.3968253963523441.
+Year: 2007. Number of samples: 250. Loss: 0.7332714591026306. Accuracy: 0.6200000023841858.
+Year: 2008. Number of samples: 252. Loss: 0.8177305374826703. Accuracy: 0.4920634949018085.
+Year: 2009. Number of samples: 252. Loss: 0.9003082154289125. Accuracy: 0.41269841364451815.
+Year: 2010. Number of samples: 252. Loss: 0.961793065071106. Accuracy: 0.4126984126984127.
+Year: 2011. Number of samples: 252. Loss: 0.9251454727990287. Accuracy: 0.42460317507622736.
+Total return: 93.06 %. Annualized return: 6.80 %.
+
+STOCK: XOM
+Year: 2002. Number of samples: 251. Loss: 0.7873796545176867. Accuracy: 0.521912351072547.
+Year: 2003. Number of samples: 253. Loss: 0.8711023431992814. Accuracy: 0.44664031691230804.
+Year: 2004. Number of samples: 252. Loss: 0.9931696870970348. Accuracy: 0.3730158715967148.
+Year: 2005. Number of samples: 252. Loss: 0.8984354592504955. Accuracy: 0.43253968348578803.
+Year: 2006. Number of samples: 252. Loss: 0.9531938972927275. Accuracy: 0.32936507889202665.
+Year: 2007. Number of samples: 250. Loss: 0.7831850485801697. Accuracy: 0.5119999995231629.
+Year: 2008. Number of samples: 252. Loss: 0.8823075086351425. Accuracy: 0.3849206335014767.
+Year: 2009. Number of samples: 252. Loss: 0.8861569364865621. Accuracy: 0.37698412745717974.
+Year: 2010. Number of samples: 252. Loss: 1.0125713215933905. Accuracy: 0.3174603184064229.
+Year: 2011. Number of samples: 252. Loss: 0.8666111713364011. Accuracy: 0.4325396820666298.
+Total return: 240.70 %. Annualized return: 13.04 %.
+
+Number of samples: 70504. Total Loss: 0.8990732682954435. Total accuracy: 0.44549245441231644.
