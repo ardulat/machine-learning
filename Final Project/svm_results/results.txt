@@ -1,0 +1,366 @@
+
+STOCK: AAPL
+Year: 2007. Number of samples: 251. Accuracy: 0.6135458167330677.
+Year: 2008. Number of samples: 253. Accuracy: 0.23715415019762845.
+Year: 2009. Number of samples: 252. Accuracy: 0.28174603174603174.
+Year: 2010. Number of samples: 252. Accuracy: 0.07539682539682539.
+Year: 2011. Number of samples: 252. Accuracy: 0.09126984126984126.
+Year: 2012. Number of samples: 250. Accuracy: 0.064.
+Year: 2013. Number of samples: 252. Accuracy: 0.08333333333333333.
+Year: 2014. Number of samples: 252. Accuracy: 0.07539682539682539.
+Year: 2015. Number of samples: 252. Accuracy: 0.1111111111111111.
+Year: 2016. Number of samples: 252. Accuracy: 0.07936507936507936.
+Total return: 312.40 %. Annualized return: 15.22 %.
+
+STOCK: AXP
+Year: 2007. Number of samples: 251. Accuracy: 0.8127490039840638.
+Year: 2008. Number of samples: 253. Accuracy: 0.11857707509881422.
+Year: 2009. Number of samples: 252. Accuracy: 0.0992063492063492.
+Year: 2010. Number of samples: 252. Accuracy: 0.06746031746031746.
+Year: 2011. Number of samples: 252. Accuracy: 0.08333333333333333.
+Year: 2012. Number of samples: 250. Accuracy: 0.104.
+Year: 2013. Number of samples: 252. Accuracy: 0.04365079365079365.
+Year: 2014. Number of samples: 252. Accuracy: 0.7619047619047619.
+Year: 2015. Number of samples: 252. Accuracy: 0.2261904761904762.
+Year: 2016. Number of samples: 252. Accuracy: 0.12301587301587301.
+Total return: 27.78 %. Annualized return: 2.48 %.
+
+STOCK: BA
+Year: 2007. Number of samples: 251. Accuracy: 0.7808764940239044.
+Year: 2008. Number of samples: 253. Accuracy: 0.24110671936758893.
+Year: 2009. Number of samples: 252. Accuracy: 0.10317460317460317.
+Year: 2010. Number of samples: 252. Accuracy: 0.20238095238095238.
+Year: 2011. Number of samples: 252. Accuracy: 0.15476190476190477.
+Year: 2012. Number of samples: 250. Accuracy: 0.104.
+Year: 2013. Number of samples: 252. Accuracy: 0.05952380952380952.
+Year: 2014. Number of samples: 252. Accuracy: 0.2777777777777778.
+Year: 2015. Number of samples: 252. Accuracy: 0.10317460317460317.
+Year: 2016. Number of samples: 252. Accuracy: 0.1111111111111111.
+Total return: 19.59 %. Annualized return: 1.81 %.
+
+STOCK: CAT
+Year: 2007. Number of samples: 251. Accuracy: 0.450199203187251.
+Year: 2008. Number of samples: 253. Accuracy: 0.2766798418972332.
+Year: 2009. Number of samples: 252. Accuracy: 0.12698412698412698.
+Year: 2010. Number of samples: 252. Accuracy: 0.07539682539682539.
+Year: 2011. Number of samples: 252. Accuracy: 0.07142857142857142.
+Year: 2012. Number of samples: 250. Accuracy: 0.384.
+Year: 2013. Number of samples: 252. Accuracy: 0.6865079365079365.
+Year: 2014. Number of samples: 252. Accuracy: 0.06746031746031746.
+Year: 2015. Number of samples: 252. Accuracy: 0.4087301587301587.
+Year: 2016. Number of samples: 252. Accuracy: 0.12698412698412698.
+Total return: -6.45 %. Annualized return: -0.66 %.
+
+STOCK: CSCO
+Year: 2007. Number of samples: 251. Accuracy: 0.11155378486055777.
+Year: 2008. Number of samples: 253. Accuracy: 0.09486166007905138.
+Year: 2009. Number of samples: 252. Accuracy: 0.1111111111111111.
+Year: 2010. Number of samples: 252. Accuracy: 0.12301587301587301.
+Year: 2011. Number of samples: 252. Accuracy: 0.1349206349206349.
+Year: 2012. Number of samples: 250. Accuracy: 0.124.
+Year: 2013. Number of samples: 252. Accuracy: 0.11507936507936507.
+Year: 2014. Number of samples: 252. Accuracy: 0.11904761904761904.
+Year: 2015. Number of samples: 252. Accuracy: 0.17857142857142858.
+Year: 2016. Number of samples: 252. Accuracy: 0.626984126984127.
+Total return: 120.29 %. Annualized return: 8.22 %.
+
+STOCK: CVX
+Year: 2007. Number of samples: 251. Accuracy: 0.28286852589641437.
+Year: 2008. Number of samples: 253. Accuracy: 0.1422924901185771.
+Year: 2009. Number of samples: 252. Accuracy: 0.15079365079365079.
+Year: 2010. Number of samples: 252. Accuracy: 0.10317460317460317.
+Year: 2011. Number of samples: 252. Accuracy: 0.12301587301587301.
+Year: 2012. Number of samples: 250. Accuracy: 0.16.
+Year: 2013. Number of samples: 252. Accuracy: 0.047619047619047616.
+Year: 2014. Number of samples: 252. Accuracy: 0.15079365079365079.
+Year: 2015. Number of samples: 252. Accuracy: 0.376984126984127.
+Year: 2016. Number of samples: 252. Accuracy: 0.11507936507936507.
+Total return: 118.35 %. Annualized return: 8.12 %.
+
+STOCK: DIS
+Year: 2007. Number of samples: 251. Accuracy: 0.5338645418326693.
+Year: 2008. Number of samples: 253. Accuracy: 0.2964426877470356.
+Year: 2009. Number of samples: 252. Accuracy: 0.08333333333333333.
+Year: 2010. Number of samples: 252. Accuracy: 0.1626984126984127.
+Year: 2011. Number of samples: 252. Accuracy: 0.17063492063492064.
+Year: 2012. Number of samples: 250. Accuracy: 0.108.
+Year: 2013. Number of samples: 252. Accuracy: 0.0873015873015873.
+Year: 2014. Number of samples: 252. Accuracy: 0.11904761904761904.
+Year: 2015. Number of samples: 252. Accuracy: 0.07539682539682539.
+Year: 2016. Number of samples: 252. Accuracy: 0.1746031746031746.
+Total return: 18.28 %. Annualized return: 1.69 %.
+
+STOCK: DWDP
+Year: 2007. Number of samples: 251. Accuracy: 0.11952191235059761.
+Year: 2008. Number of samples: 253. Accuracy: 0.12648221343873517.
+Year: 2009. Number of samples: 252. Accuracy: 0.06746031746031746.
+Year: 2010. Number of samples: 252. Accuracy: 0.09523809523809523.
+Year: 2011. Number of samples: 252. Accuracy: 0.07936507936507936.
+Year: 2012. Number of samples: 250. Accuracy: 0.096.
+Year: 2013. Number of samples: 252. Accuracy: 0.10317460317460317.
+Year: 2014. Number of samples: 252. Accuracy: 0.12698412698412698.
+Year: 2015. Number of samples: 252. Accuracy: 0.6984126984126984.
+Year: 2016. Number of samples: 252. Accuracy: 0.06746031746031746.
+Total return: -15.52 %. Annualized return: -1.67 %.
+
+STOCK: GE
+Year: 2007. Number of samples: 251. Accuracy: 0.6852589641434262.
+Year: 2008. Number of samples: 253. Accuracy: 0.09090909090909091.
+Year: 2009. Number of samples: 252. Accuracy: 0.10317460317460317.
+Year: 2010. Number of samples: 252. Accuracy: 0.1626984126984127.
+Year: 2011. Number of samples: 252. Accuracy: 0.09126984126984126.
+Year: 2012. Number of samples: 250. Accuracy: 0.06.
+Year: 2013. Number of samples: 252. Accuracy: 0.24603174603174602.
+Year: 2014. Number of samples: 252. Accuracy: 0.6150793650793651.
+Year: 2015. Number of samples: 252. Accuracy: 0.2619047619047619.
+Year: 2016. Number of samples: 252. Accuracy: 0.18253968253968253.
+Total return: -40.93 %. Annualized return: -5.13 %.
+
+STOCK: HD
+Year: 2007. Number of samples: 251. Accuracy: 0.22709163346613545.
+Year: 2008. Number of samples: 253. Accuracy: 0.13438735177865613.
+Year: 2009. Number of samples: 252. Accuracy: 0.21428571428571427.
+Year: 2010. Number of samples: 252. Accuracy: 0.13095238095238096.
+Year: 2011. Number of samples: 252. Accuracy: 0.0873015873015873.
+Year: 2012. Number of samples: 250. Accuracy: 0.064.
+Year: 2013. Number of samples: 252. Accuracy: 0.19444444444444445.
+Year: 2014. Number of samples: 252. Accuracy: 0.09126984126984126.
+Year: 2015. Number of samples: 252. Accuracy: 0.06349206349206349.
+Year: 2016. Number of samples: 252. Accuracy: 0.15873015873015872.
+Total return: 22.88 %. Annualized return: 2.08 %.
+
+STOCK: IBM
+Year: 2007. Number of samples: 251. Accuracy: 0.099601593625498.
+Year: 2008. Number of samples: 253. Accuracy: 0.30434782608695654.
+Year: 2009. Number of samples: 252. Accuracy: 0.06746031746031746.
+Year: 2010. Number of samples: 252. Accuracy: 0.06349206349206349.
+Year: 2011. Number of samples: 252. Accuracy: 0.06349206349206349.
+Year: 2012. Number of samples: 250. Accuracy: 0.068.
+Year: 2013. Number of samples: 252. Accuracy: 0.06746031746031746.
+Year: 2014. Number of samples: 252. Accuracy: 0.876984126984127.
+Year: 2015. Number of samples: 252. Accuracy: 0.9007936507936508.
+Year: 2016. Number of samples: 252. Accuracy: 0.876984126984127.
+Total return: -3.75 %. Annualized return: -0.38 %.
+
+STOCK: INTC
+Year: 2007. Number of samples: 251. Accuracy: 0.5776892430278885.
+Year: 2008. Number of samples: 253. Accuracy: 0.25296442687747034.
+Year: 2009. Number of samples: 252. Accuracy: 0.4523809523809524.
+Year: 2010. Number of samples: 252. Accuracy: 0.2976190476190476.
+Year: 2011. Number of samples: 252. Accuracy: 0.35714285714285715.
+Year: 2012. Number of samples: 250. Accuracy: 0.452.
+Year: 2013. Number of samples: 252. Accuracy: 0.5555555555555556.
+Year: 2014. Number of samples: 252. Accuracy: 0.4880952380952381.
+Year: 2015. Number of samples: 252. Accuracy: 0.2619047619047619.
+Year: 2016. Number of samples: 252. Accuracy: 0.12698412698412698.
+Total return: 107.75 %. Annualized return: 7.59 %.
+
+STOCK: JNJ
+Year: 2007. Number of samples: 251. Accuracy: 0.10358565737051793.
+Year: 2008. Number of samples: 253. Accuracy: 0.11462450592885376.
+Year: 2009. Number of samples: 252. Accuracy: 0.10714285714285714.
+Year: 2010. Number of samples: 252. Accuracy: 0.08333333333333333.
+Year: 2011. Number of samples: 252. Accuracy: 0.1111111111111111.
+Year: 2012. Number of samples: 250. Accuracy: 0.076.
+Year: 2013. Number of samples: 252. Accuracy: 0.03571428571428571.
+Year: 2014. Number of samples: 252. Accuracy: 0.14682539682539683.
+Year: 2015. Number of samples: 252. Accuracy: 0.8531746031746031.
+Year: 2016. Number of samples: 252. Accuracy: 0.05555555555555555.
+Total return: -1.09 %. Annualized return: -0.11 %.
+
+STOCK: JPM
+Year: 2007. Number of samples: 251. Accuracy: 0.6334661354581673.
+Year: 2008. Number of samples: 253. Accuracy: 0.13438735177865613.
+Year: 2009. Number of samples: 252. Accuracy: 0.16666666666666666.
+Year: 2010. Number of samples: 252. Accuracy: 0.26587301587301587.
+Year: 2011. Number of samples: 252. Accuracy: 0.25793650793650796.
+Year: 2012. Number of samples: 250. Accuracy: 0.156.
+Year: 2013. Number of samples: 252. Accuracy: 0.24206349206349206.
+Year: 2014. Number of samples: 252. Accuracy: 0.21031746031746032.
+Year: 2015. Number of samples: 252. Accuracy: 0.13095238095238096.
+Year: 2016. Number of samples: 252. Accuracy: 0.1388888888888889.
+Total return: 113.90 %. Annualized return: 7.90 %.
+
+STOCK: KO
+Year: 2007. Number of samples: 251. Accuracy: 0.649402390438247.
+Year: 2008. Number of samples: 253. Accuracy: 0.3952569169960474.
+Year: 2009. Number of samples: 252. Accuracy: 0.376984126984127.
+Year: 2010. Number of samples: 252. Accuracy: 0.28174603174603174.
+Year: 2011. Number of samples: 252. Accuracy: 0.3531746031746032.
+Year: 2012. Number of samples: 250. Accuracy: 0.196.
+Year: 2013. Number of samples: 252. Accuracy: 0.16666666666666666.
+Year: 2014. Number of samples: 252. Accuracy: 0.2222222222222222.
+Year: 2015. Number of samples: 252. Accuracy: 0.1349206349206349.
+Year: 2016. Number of samples: 252. Accuracy: 0.21428571428571427.
+Total return: 152.35 %. Annualized return: 9.70 %.
+
+STOCK: MCD
+Year: 2007. Number of samples: 251. Accuracy: 0.5219123505976095.
+Year: 2008. Number of samples: 253. Accuracy: 0.09881422924901186.
+Year: 2009. Number of samples: 252. Accuracy: 0.44841269841269843.
+Year: 2010. Number of samples: 252. Accuracy: 0.19444444444444445.
+Year: 2011. Number of samples: 252. Accuracy: 0.15873015873015872.
+Year: 2012. Number of samples: 250. Accuracy: 0.24.
+Year: 2013. Number of samples: 252. Accuracy: 0.06349206349206349.
+Year: 2014. Number of samples: 252. Accuracy: 0.12301587301587301.
+Year: 2015. Number of samples: 252. Accuracy: 0.07936507936507936.
+Year: 2016. Number of samples: 252. Accuracy: 0.8333333333333334.
+Total return: 131.50 %. Annualized return: 8.76 %.
+
+STOCK: MMM
+Year: 2007. Number of samples: 251. Accuracy: 0.11553784860557768.
+Year: 2008. Number of samples: 253. Accuracy: 0.15810276679841898.
+Year: 2009. Number of samples: 252. Accuracy: 0.07936507936507936.
+Year: 2010. Number of samples: 252. Accuracy: 0.12698412698412698.
+Year: 2011. Number of samples: 252. Accuracy: 0.0992063492063492.
+Year: 2012. Number of samples: 250. Accuracy: 0.068.
+Year: 2013. Number of samples: 252. Accuracy: 0.047619047619047616.
+Year: 2014. Number of samples: 252. Accuracy: 0.06746031746031746.
+Year: 2015. Number of samples: 252. Accuracy: 0.06349206349206349.
+Year: 2016. Number of samples: 252. Accuracy: 0.8809523809523809.
+Total return: -0.47 %. Annualized return: -0.05 %.
+
+STOCK: MRK
+Year: 2007. Number of samples: 251. Accuracy: 0.16733067729083664.
+Year: 2008. Number of samples: 253. Accuracy: 0.233201581027668.
+Year: 2009. Number of samples: 252. Accuracy: 0.07539682539682539.
+Year: 2010. Number of samples: 252. Accuracy: 0.1626984126984127.
+Year: 2011. Number of samples: 252. Accuracy: 0.14682539682539683.
+Year: 2012. Number of samples: 250. Accuracy: 0.136.
+Year: 2013. Number of samples: 252. Accuracy: 0.10714285714285714.
+Year: 2014. Number of samples: 252. Accuracy: 0.8174603174603174.
+Year: 2015. Number of samples: 252. Accuracy: 0.2777777777777778.
+Year: 2016. Number of samples: 252. Accuracy: 0.18253968253968253.
+Total return: 58.82 %. Annualized return: 4.73 %.
+
+STOCK: MSFT
+Year: 2007. Number of samples: 251. Accuracy: 0.5577689243027888.
+Year: 2008. Number of samples: 253. Accuracy: 0.3359683794466403.
+Year: 2009. Number of samples: 252. Accuracy: 0.2896825396825397.
+Year: 2010. Number of samples: 252. Accuracy: 0.6150793650793651.
+Year: 2011. Number of samples: 252. Accuracy: 0.623015873015873.
+Year: 2012. Number of samples: 250. Accuracy: 0.636.
+Year: 2013. Number of samples: 252. Accuracy: 0.6031746031746031.
+Year: 2014. Number of samples: 252. Accuracy: 0.7222222222222222.
+Year: 2015. Number of samples: 252. Accuracy: 0.24206349206349206.
+Year: 2016. Number of samples: 252. Accuracy: 0.15079365079365079.
+Total return: 16.45 %. Annualized return: 1.53 %.
+
+STOCK: NKE
+Year: 2007. Number of samples: 251. Accuracy: 0.22709163346613545.
+Year: 2008. Number of samples: 253. Accuracy: 0.09486166007905138.
+Year: 2009. Number of samples: 252. Accuracy: 0.09126984126984126.
+Year: 2010. Number of samples: 252. Accuracy: 0.12301587301587301.
+Year: 2011. Number of samples: 252. Accuracy: 0.19444444444444445.
+Year: 2012. Number of samples: 250. Accuracy: 0.336.
+Year: 2013. Number of samples: 252. Accuracy: 0.8134920634920635.
+Year: 2014. Number of samples: 252. Accuracy: 0.25.
+Year: 2015. Number of samples: 252. Accuracy: 0.19444444444444445.
+Year: 2016. Number of samples: 252. Accuracy: 0.32936507936507936.
+Total return: 526.66 %. Annualized return: 20.14 %.
+
+STOCK: PFE
+Year: 2007. Number of samples: 251. Accuracy: 0.1593625498007968.
+Year: 2008. Number of samples: 253. Accuracy: 0.13043478260869565.
+Year: 2009. Number of samples: 252. Accuracy: 0.10714285714285714.
+Year: 2010. Number of samples: 252. Accuracy: 0.25396825396825395.
+Year: 2011. Number of samples: 252. Accuracy: 0.15476190476190477.
+Year: 2012. Number of samples: 250. Accuracy: 0.716.
+Year: 2013. Number of samples: 252. Accuracy: 0.8174603174603174.
+Year: 2014. Number of samples: 252. Accuracy: 0.623015873015873.
+Year: 2015. Number of samples: 252. Accuracy: 0.32936507936507936.
+Year: 2016. Number of samples: 252. Accuracy: 0.15476190476190477.
+Total return: 93.62 %. Annualized return: 6.83 %.
+
+STOCK: PG
+Year: 2007. Number of samples: 251. Accuracy: 0.5099601593625498.
+Year: 2008. Number of samples: 253. Accuracy: 0.5217391304347826.
+Year: 2009. Number of samples: 252. Accuracy: 0.1111111111111111.
+Year: 2010. Number of samples: 252. Accuracy: 0.14285714285714285.
+Year: 2011. Number of samples: 252. Accuracy: 0.2222222222222222.
+Year: 2012. Number of samples: 250. Accuracy: 0.136.
+Year: 2013. Number of samples: 252. Accuracy: 0.07936507936507936.
+Year: 2014. Number of samples: 252. Accuracy: 0.10317460317460317.
+Year: 2015. Number of samples: 252. Accuracy: 0.7976190476190477.
+Year: 2016. Number of samples: 252. Accuracy: 0.06349206349206349.
+Total return: 18.31 %. Annualized return: 1.70 %.
+
+STOCK: TRV
+Year: 2007. Number of samples: 251. Accuracy: 0.350597609561753.
+Year: 2008. Number of samples: 253. Accuracy: 0.1422924901185771.
+Year: 2009. Number of samples: 252. Accuracy: 0.19047619047619047.
+Year: 2010. Number of samples: 252. Accuracy: 0.5476190476190477.
+Year: 2011. Number of samples: 252. Accuracy: 0.5674603174603174.
+Year: 2012. Number of samples: 250. Accuracy: 0.612.
+Year: 2013. Number of samples: 252. Accuracy: 0.8095238095238095.
+Year: 2014. Number of samples: 252. Accuracy: 0.1111111111111111.
+Year: 2015. Number of samples: 252. Accuracy: 0.47619047619047616.
+Year: 2016. Number of samples: 252. Accuracy: 0.09126984126984126.
+Total return: 189.40 %. Annualized return: 11.21 %.
+
+STOCK: UNH
+Year: 2007. Number of samples: 251. Accuracy: 0.549800796812749.
+Year: 2008. Number of samples: 253. Accuracy: 0.1225296442687747.
+Year: 2009. Number of samples: 252. Accuracy: 0.07142857142857142.
+Year: 2010. Number of samples: 252. Accuracy: 0.2857142857142857.
+Year: 2011. Number of samples: 252. Accuracy: 0.2896825396825397.
+Year: 2012. Number of samples: 250. Accuracy: 0.444.
+Year: 2013. Number of samples: 252. Accuracy: 0.8134920634920635.
+Year: 2014. Number of samples: 252. Accuracy: 0.6904761904761905.
+Year: 2015. Number of samples: 252. Accuracy: 0.1865079365079365.
+Year: 2016. Number of samples: 252. Accuracy: 0.05952380952380952.
+Total return: 4.79 %. Annualized return: 0.47 %.
+
+STOCK: UTX
+Year: 2007. Number of samples: 251. Accuracy: 0.14741035856573706.
+Year: 2008. Number of samples: 253. Accuracy: 0.22924901185770752.
+Year: 2009. Number of samples: 252. Accuracy: 0.07539682539682539.
+Year: 2010. Number of samples: 252. Accuracy: 0.09523809523809523.
+Year: 2011. Number of samples: 252. Accuracy: 0.12301587301587301.
+Year: 2012. Number of samples: 250. Accuracy: 0.116.
+Year: 2013. Number of samples: 252. Accuracy: 0.05555555555555555.
+Year: 2014. Number of samples: 252. Accuracy: 0.12301587301587301.
+Year: 2015. Number of samples: 252. Accuracy: 0.38095238095238093.
+Year: 2016. Number of samples: 252. Accuracy: 0.7103174603174603.
+Total return: 9.01 %. Annualized return: 0.87 %.
+
+STOCK: VZ
+Year: 2007. Number of samples: 251. Accuracy: 0.3705179282868526.
+Year: 2008. Number of samples: 253. Accuracy: 0.39920948616600793.
+Year: 2009. Number of samples: 252. Accuracy: 0.48412698412698413.
+Year: 2010. Number of samples: 252. Accuracy: 0.3888888888888889.
+Year: 2011. Number of samples: 252. Accuracy: 0.7341269841269841.
+Year: 2012. Number of samples: 250. Accuracy: 0.816.
+Year: 2013. Number of samples: 252. Accuracy: 0.8452380952380952.
+Year: 2014. Number of samples: 252. Accuracy: 0.12301587301587301.
+Year: 2015. Number of samples: 252. Accuracy: 0.13095238095238096.
+Year: 2016. Number of samples: 252. Accuracy: 0.10714285714285714.
+Total return: 87.48 %. Annualized return: 6.49 %.
+
+STOCK: WMT
+Year: 2007. Number of samples: 251. Accuracy: 0.13545816733067728.
+Year: 2008. Number of samples: 253. Accuracy: 0.13043478260869565.
+Year: 2009. Number of samples: 252. Accuracy: 0.19047619047619047.
+Year: 2010. Number of samples: 252. Accuracy: 0.17857142857142858.
+Year: 2011. Number of samples: 252. Accuracy: 0.13095238095238096.
+Year: 2012. Number of samples: 250. Accuracy: 0.1.
+Year: 2013. Number of samples: 252. Accuracy: 0.12698412698412698.
+Year: 2014. Number of samples: 252. Accuracy: 0.0873015873015873.
+Year: 2015. Number of samples: 252. Accuracy: 0.34523809523809523.
+Year: 2016. Number of samples: 252. Accuracy: 0.1349206349206349.
+Total return: 76.65 %. Annualized return: 5.86 %.
+
+STOCK: XOM
+Year: 2007. Number of samples: 251. Accuracy: 0.23107569721115537.
+Year: 2008. Number of samples: 253. Accuracy: 0.17786561264822134.
+Year: 2009. Number of samples: 252. Accuracy: 0.19444444444444445.
+Year: 2010. Number of samples: 252. Accuracy: 0.10317460317460317.
+Year: 2011. Number of samples: 252. Accuracy: 0.10317460317460317.
+Year: 2012. Number of samples: 250. Accuracy: 0.096.
+Year: 2013. Number of samples: 252. Accuracy: 0.08333333333333333.
+Year: 2014. Number of samples: 252. Accuracy: 0.08333333333333333.
+Year: 2015. Number of samples: 252. Accuracy: 0.0992063492063492.
+Year: 2016. Number of samples: 252. Accuracy: 0.8650793650793651.
+Total return: 205.22 %. Annualized return: 11.81 %.
+
+Number of samples: 70504. Total Loss: 0.25580108929989787. Total accuracy: 251.8022239872915.

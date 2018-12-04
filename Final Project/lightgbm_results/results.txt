@@ -10,7 +10,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99041344e-01 1.15595344e-05 9.47096
 Year: 2014. Number of samples: 252. Loss: [9.99994541e-01 3.30315451e-06 2.15605705e-06]. Accuracy: [9.97167789e-01 2.68317392e-03 1.49036626e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99964644e-01 1.33125931e-05 2.20432981e-05]. Accuracy: [0.01615876 0.98237996 0.00146127].
 Year: 2016. Number of samples: 252. Loss: [9.99853821e-01 1.19449724e-04 2.67295359e-05]. Accuracy: [9.99570030e-01 2.75744403e-04 1.54225949e-04].
-Total return: 30.96 %. Annualized return: 2.73 %.
+Total return: 193.52 %. Annualized return: 11.37 %.
 
 STOCK: AXP
 Year: 2007. Number of samples: 251. Loss: [9.99997453e-01 2.31757515e-07 2.31539846e-06]. Accuracy: [9.99999544e-01 1.68458372e-07 2.87275577e-07].
@@ -23,7 +23,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99995421e-01 6.50792565e-07 3.92794
 Year: 2014. Number of samples: 252. Loss: [9.99808346e-01 2.37503914e-05 1.67903216e-04]. Accuracy: [9.58443712e-01 2.86081925e-04 4.12702059e-02].
 Year: 2015. Number of samples: 252. Loss: [9.99995728e-01 3.46086381e-06 8.10902596e-07]. Accuracy: [9.99943285e-01 3.46342464e-05 2.20808201e-05].
 Year: 2016. Number of samples: 252. Loss: [7.17617231e-01 2.82283223e-01 9.95459396e-05]. Accuracy: [8.12842303e-01 1.87113985e-01 4.37113511e-05].
-Total return: 6.62 %. Annualized return: 0.64 %.
+Total return: 32.17 %. Annualized return: 2.83 %.
 
 STOCK: BA
 Year: 2007. Number of samples: 251. Loss: [9.99537689e-01 1.03230163e-06 4.61278829e-04]. Accuracy: [9.99972626e-01 4.18461775e-07 2.69553694e-05].
@@ -36,7 +36,7 @@ Year: 2013. Number of samples: 252. Loss: [9.61585447e-01 1.01436686e-05 3.84044
 Year: 2014. Number of samples: 252. Loss: [9.99993192e-01 6.19460728e-06 6.13180133e-07]. Accuracy: [9.99609885e-01 2.07716759e-04 1.82398185e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99990131e-01 3.69716993e-06 6.17161433e-06]. Accuracy: [9.99994503e-01 7.93267181e-08 5.41791402e-06].
 Year: 2016. Number of samples: 252. Loss: [9.98577000e-01 3.06421876e-04 1.11657819e-03]. Accuracy: [9.99045172e-01 9.48668084e-04 6.16030694e-06].
-Total return: 18.16 %. Annualized return: 1.68 %.
+Total return: -30.59 %. Annualized return: -3.59 %.
 
 STOCK: CAT
 Year: 2007. Number of samples: 251. Loss: [9.99992641e-01 4.81227383e-06 2.54636061e-06]. Accuracy: [9.99988093e-01 8.96903350e-06 2.93795026e-06].
@@ -49,7 +49,7 @@ Year: 2013. Number of samples: 252. Loss: [9.49706441e-01 9.07472530e-06 5.02844
 Year: 2014. Number of samples: 252. Loss: [9.99932411e-01 5.80408129e-06 6.17846327e-05]. Accuracy: [9.99976355e-01 2.13547702e-06 2.15093081e-05].
 Year: 2015. Number of samples: 252. Loss: [9.98501939e-01 1.79487782e-06 1.49626596e-03]. Accuracy: [9.89639893e-01 9.43907108e-03 9.21035972e-04].
 Year: 2016. Number of samples: 252. Loss: [9.97890207e-01 1.94405474e-03 1.65738473e-04]. Accuracy: [2.48240341e-01 7.51728214e-01 3.14452173e-05].
-Total return: -4.57 %. Annualized return: -0.47 %.
+Total return: 35.05 %. Annualized return: 3.05 %.
 
 STOCK: CSCO
 Year: 2007. Number of samples: 251. Loss: [9.44007357e-01 4.55959685e-06 5.59880835e-02]. Accuracy: [9.75878153e-01 2.46620588e-06 2.41193805e-02].
@@ -62,7 +62,7 @@ Year: 2013. Number of samples: 252. Loss: [9.95455582e-01 2.17062368e-06 4.54224
 Year: 2014. Number of samples: 252. Loss: [9.99733247e-01 2.45554427e-05 2.42197548e-04]. Accuracy: [9.99995548e-01 3.27522939e-07 4.12428463e-06].
 Year: 2015. Number of samples: 252. Loss: [9.99885190e-01 8.45013263e-05 3.03086025e-05]. Accuracy: [9.99997694e-01 1.73852053e-06 5.67282919e-07].
 Year: 2016. Number of samples: 252. Loss: [9.99942871e-01 1.06555292e-06 5.60631035e-05]. Accuracy: [9.98738425e-01 3.59304826e-05 1.22564439e-03].
-Total return: -5.77 %. Annualized return: -0.59 %.
+Total return: -5.51 %. Annualized return: -0.57 %.
 
 STOCK: CVX
 Year: 2007. Number of samples: 251. Loss: [9.99933961e-01 6.55827036e-05 4.55889967e-07]. Accuracy: [9.95081683e-01 4.89344338e-03 2.48736205e-05].
@@ -75,7 +75,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99999499e-01 1.25661188e-07 3.75244
 Year: 2014. Number of samples: 252. Loss: [9.99996866e-01 1.05248211e-07 3.02904354e-06]. Accuracy: [9.99994899e-01 2.98242948e-06 2.11906198e-06].
 Year: 2015. Number of samples: 252. Loss: [9.98068277e-01 1.62074115e-05 1.91551531e-03]. Accuracy: [9.99965760e-01 3.40751276e-05 1.64820136e-07].
 Year: 2016. Number of samples: 252. Loss: [9.99994834e-01 9.30069151e-07 4.23614603e-06]. Accuracy: [9.99995869e-01 2.33015229e-06 1.80133321e-06].
-Total return: 23.94 %. Annualized return: 2.17 %.
+Total return: 120.23 %. Annualized return: 8.22 %.
 
 STOCK: DIS
 Year: 2007. Number of samples: 251. Loss: [9.99854688e-01 1.43419020e-04 1.89271640e-06]. Accuracy: [9.99956137e-01 8.08310466e-06 3.57795868e-05].
@@ -88,7 +88,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99298618e-01 9.34967169e-06 6.92032
 Year: 2014. Number of samples: 252. Loss: [9.99100405e-01 4.37885436e-05 8.55806087e-04]. Accuracy: [9.99295897e-01 3.82930716e-05 6.65810028e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99974634e-01 7.46892700e-06 1.78972481e-05]. Accuracy: [9.98394540e-01 1.60451722e-03 9.42591549e-07].
 Year: 2016. Number of samples: 252. Loss: [9.99992264e-01 6.87580658e-06 8.60526954e-07]. Accuracy: [9.99972480e-01 2.40914112e-05 3.42885198e-06].
-Total return: 14.93 %. Annualized return: 1.40 %.
+Total return: 28.32 %. Annualized return: 2.53 %.
 
 STOCK: DWDP
 Year: 2007. Number of samples: 251. Loss: [9.99764437e-01 2.03046809e-05 2.15258814e-04]. Accuracy: [9.99999002e-01 2.36944380e-07 7.60594164e-07].
@@ -101,7 +101,7 @@ Year: 2013. Number of samples: 252. Loss: [9.71528407e-01 2.07728564e-04 2.82638
 Year: 2014. Number of samples: 252. Loss: [9.99974029e-01 1.91604716e-05 6.81008690e-06]. Accuracy: [9.99511346e-01 2.99770522e-04 1.88883472e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99526882e-01 9.44864068e-06 4.63669399e-04]. Accuracy: [9.89591127e-01 1.02080741e-02 2.00798545e-04].
 Year: 2016. Number of samples: 252. Loss: [9.96534827e-01 3.46003381e-03 5.13961845e-06]. Accuracy: [8.46062245e-01 1.53931046e-01 6.70837875e-06].
-Total return: 8.61 %. Annualized return: 0.83 %.
+Total return: -67.76 %. Annualized return: -10.70 %.
 
 STOCK: GE
 Year: 2007. Number of samples: 251. Loss: [9.98541524e-01 2.20445588e-05 1.43643157e-03]. Accuracy: [9.99274665e-01 5.31758231e-04 1.93576459e-04].
@@ -114,7 +114,7 @@ Year: 2013. Number of samples: 252. Loss: [5.83579786e-01 6.39599971e-05 4.16356
 Year: 2014. Number of samples: 252. Loss: [9.99954764e-01 3.10972859e-05 1.41388678e-05]. Accuracy: [9.99877597e-01 8.78308547e-05 3.45718682e-05].
 Year: 2015. Number of samples: 252. Loss: [9.97737808e-01 2.21289667e-03 4.92955272e-05]. Accuracy: [9.88833617e-01 1.11496272e-02 1.67561172e-05].
 Year: 2016. Number of samples: 252. Loss: [9.98330724e-01 7.81267162e-04 8.88008481e-04]. Accuracy: [9.99483609e-01 3.64925103e-04 1.51465914e-04].
-Total return: 20.43 %. Annualized return: 1.88 %.
+Total return: 56.03 %. Annualized return: 4.55 %.
 
 STOCK: HD
 Year: 2007. Number of samples: 251. Loss: [9.96162785e-01 1.19963357e-04 3.71725133e-03]. Accuracy: [9.99995231e-01 4.33166250e-07 4.33573277e-06].
@@ -127,7 +127,7 @@ Year: 2013. Number of samples: 252. Loss: [9.86872007e-01 1.56551595e-06 1.31264
 Year: 2014. Number of samples: 252. Loss: [9.58409575e-01 2.03975379e-06 4.15883850e-02]. Accuracy: [9.95835245e-01 1.33470785e-05 4.15140791e-03].
 Year: 2015. Number of samples: 252. Loss: [9.95628926e-01 4.35964436e-03 1.14296612e-05]. Accuracy: [9.82934882e-01 1.70069914e-02 5.81265302e-05].
 Year: 2016. Number of samples: 252. Loss: [9.98645472e-01 1.30850780e-03 4.60201093e-05]. Accuracy: [9.97197569e-01 2.80105783e-03 1.37288335e-06].
-Total return: 35.60 %. Annualized return: 3.09 %.
+Total return: 92.53 %. Annualized return: 6.77 %.
 
 STOCK: IBM
 Year: 2007. Number of samples: 251. Loss: [9.99946592e-01 2.98913203e-05 2.35166644e-05]. Accuracy: [9.96279604e-01 3.27918874e-06 3.71711643e-03].
@@ -140,7 +140,7 @@ Year: 2013. Number of samples: 252. Loss: [9.94687582e-01 4.49393121e-06 5.30792
 Year: 2014. Number of samples: 252. Loss: [9.78148854e-01 1.03849458e-05 2.18407607e-02]. Accuracy: [9.99007574e-01 6.90127207e-06 9.85525102e-04].
 Year: 2015. Number of samples: 252. Loss: [9.95453725e-01 1.93497942e-07 4.54608191e-03]. Accuracy: [9.99998641e-01 2.20144679e-09 1.35666844e-06].
 Year: 2016. Number of samples: 252. Loss: [9.99995368e-01 3.78860692e-06 8.43079844e-07]. Accuracy: [9.99999278e-01 7.17458362e-07 4.60079437e-09].
-Total return: 35.00 %. Annualized return: 3.05 %.
+Total return: 108.25 %. Annualized return: 7.61 %.
 
 STOCK: INTC
 Year: 2007. Number of samples: 251. Loss: [9.99662155e-01 3.09124195e-04 2.87211840e-05]. Accuracy: [9.97578214e-01 3.31362027e-06 2.41847230e-03].
@@ -153,7 +153,7 @@ Year: 2013. Number of samples: 252. Loss: [5.91856024e-01 6.91059821e-06 4.08137
 Year: 2014. Number of samples: 252. Loss: [9.99721459e-01 3.52340602e-06 2.75017878e-04]. Accuracy: [9.99769759e-01 1.22619703e-07 2.30118045e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99953402e-01 4.63615663e-05 2.36416635e-07]. Accuracy: [9.98841641e-01 1.15680373e-03 1.55502553e-06].
 Year: 2016. Number of samples: 252. Loss: [9.86743857e-01 1.28084313e-02 4.47711480e-04]. Accuracy: [9.99999413e-01 3.66969377e-07 2.20412815e-07].
-Total return: 34.72 %. Annualized return: 3.03 %.
+Total return: 64.94 %. Annualized return: 5.13 %.
 
 STOCK: JNJ
 Year: 2007. Number of samples: 251. Loss: [9.99872807e-01 7.03940924e-06 1.20153946e-04]. Accuracy: [9.97732070e-01 4.83359495e-06 2.26309592e-03].
@@ -166,7 +166,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99743559e-01 3.51252010e-07 2.56089
 Year: 2014. Number of samples: 252. Loss: [9.99987827e-01 1.21370946e-05 3.63822644e-08]. Accuracy: [9.99996562e-01 2.47156974e-06 9.66723702e-07].
 Year: 2015. Number of samples: 252. Loss: [9.99075229e-01 9.24449036e-04 3.22091607e-07]. Accuracy: [9.99875076e-01 1.22401166e-04 2.52236504e-06].
 Year: 2016. Number of samples: 252. Loss: [9.87447649e-01 1.25518292e-02 5.21924971e-07]. Accuracy: [9.99958944e-01 2.70475005e-05 1.40088181e-05].
-Total return: 25.64 %. Annualized return: 2.31 %.
+Total return: 120.62 %. Annualized return: 8.23 %.
 
 STOCK: JPM
 Year: 2007. Number of samples: 251. Loss: [9.99986681e-01 2.75838298e-06 1.05608182e-05]. Accuracy: [9.99758279e-01 3.17527553e-05 2.09968492e-04].
@@ -179,7 +179,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99166186e-01 5.38319437e-07 8.33275
 Year: 2014. Number of samples: 252. Loss: [9.99940255e-01 2.28970130e-06 5.74557692e-05]. Accuracy: [9.99999801e-01 6.83955794e-08 1.30806888e-07].
 Year: 2015. Number of samples: 252. Loss: [9.99976852e-01 1.07414213e-07 2.30403819e-05]. Accuracy: [9.99917324e-01 8.22705509e-05 4.05890726e-07].
 Year: 2016. Number of samples: 252. Loss: [9.99515386e-01 4.84485282e-04 1.28749680e-07]. Accuracy: [9.99520060e-01 5.62650994e-05 4.23674832e-04].
-Total return: 73.25 %. Annualized return: 5.65 %.
+Total return: 177.83 %. Annualized return: 10.76 %.
 
 STOCK: KO
 Year: 2007. Number of samples: 251. Loss: [9.97259440e-01 2.70051840e-03 4.00413779e-05]. Accuracy: [9.62350005e-01 3.76015131e-02 4.84817322e-05].
@@ -192,7 +192,7 @@ Year: 2013. Number of samples: 252. Loss: [9.55286053e-01 1.56469895e-04 4.45574
 Year: 2014. Number of samples: 252. Loss: [9.99774769e-01 2.31219701e-05 2.02108990e-04]. Accuracy: [9.99593728e-01 1.89924475e-04 2.16347175e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99995131e-01 2.00318181e-07 4.66854484e-06]. Accuracy: [9.99999906e-01 3.06349722e-08 6.30039995e-08].
 Year: 2016. Number of samples: 252. Loss: [9.95268977e-01 4.72876809e-03 2.25500649e-06]. Accuracy: [9.99981374e-01 1.64277186e-05 2.19817070e-06].
-Total return: 42.89 %. Annualized return: 3.63 %.
+Total return: 228.41 %. Annualized return: 12.63 %.
 
 STOCK: MCD
 Year: 2007. Number of samples: 251. Loss: [9.99956641e-01 3.67243116e-05 6.63451478e-06]. Accuracy: [9.92206507e-01 7.79254004e-03 9.53273193e-07].
@@ -205,7 +205,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99993109e-01 7.52106890e-08 6.81533
 Year: 2014. Number of samples: 252. Loss: [9.99927650e-01 1.12355442e-05 6.11143055e-05]. Accuracy: [9.99852915e-01 7.03820790e-06 1.40046386e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99975251e-01 1.54386544e-05 9.31019586e-06]. Accuracy: [9.87510401e-01 1.15066218e-02 9.82977059e-04].
 Year: 2016. Number of samples: 252. Loss: [9.99985066e-01 1.47171040e-05 2.17349310e-07]. Accuracy: [9.99905485e-01 7.37549863e-06 8.71393290e-05].
-Total return: 75.19 %. Annualized return: 5.77 %.
+Total return: 297.02 %. Annualized return: 14.78 %.
 
 STOCK: MMM
 Year: 2007. Number of samples: 251. Loss: [9.99999031e-01 9.38297519e-07 3.08812177e-08]. Accuracy: [9.99956588e-01 4.18087487e-05 1.60320403e-06].
@@ -218,7 +218,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99465991e-01 5.63843054e-07 5.33444
 Year: 2014. Number of samples: 252. Loss: [9.72376860e-01 5.66678877e-06 2.76174736e-02]. Accuracy: [9.99839089e-01 6.92331419e-07 1.60218640e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99991827e-01 7.05913981e-06 1.11350351e-06]. Accuracy: [9.91819635e-01 7.94943752e-03 2.30927707e-04].
 Year: 2016. Number of samples: 252. Loss: [9.99683070e-01 1.10328805e-04 2.06601043e-04]. Accuracy: [9.99877187e-01 4.77211084e-05 7.50921253e-05].
-Total return: 13.43 %. Annualized return: 1.27 %.
+Total return: 62.08 %. Annualized return: 4.95 %.
 
 STOCK: MRK
 Year: 2007. Number of samples: 251. Loss: [9.99826452e-01 1.92067091e-05 1.54341393e-04]. Accuracy: [9.51443664e-01 2.05770346e-05 4.85357591e-02].
@@ -231,7 +231,7 @@ Year: 2013. Number of samples: 252. Loss: [9.89459132e-01 1.02329671e-02 3.07900
 Year: 2014. Number of samples: 252. Loss: [9.97127013e-01 2.86015471e-03 1.28326342e-05]. Accuracy: [0.99349214 0.0014804  0.00502746].
 Year: 2015. Number of samples: 252. Loss: [9.99771239e-01 2.27022880e-04 1.73828042e-06]. Accuracy: [9.99992790e-01 6.97596533e-06 2.33622343e-07].
 Year: 2016. Number of samples: 252. Loss: [9.99991090e-01 8.14200751e-06 7.68327581e-07]. Accuracy: [9.99982431e-01 4.61231066e-07 1.71080357e-05].
-Total return: -1.11 %. Annualized return: -0.11 %.
+Total return: 94.10 %. Annualized return: 6.86 %.
 
 STOCK: MSFT
 Year: 2007. Number of samples: 251. Loss: [9.99998714e-01 3.39848006e-07 9.46199699e-07]. Accuracy: [9.99990912e-01 8.40476241e-06 6.83225727e-07].
@@ -244,7 +244,7 @@ Year: 2013. Number of samples: 252. Loss: [9.81700047e-01 1.42875550e-07 1.82998
 Year: 2014. Number of samples: 252. Loss: [9.99871685e-01 7.71690063e-07 1.27543459e-04]. Accuracy: [9.93286557e-01 5.79754062e-03 9.15902019e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99983491e-01 9.69879799e-06 6.81011413e-06]. Accuracy: [9.99980749e-01 1.90920889e-05 1.58549597e-07].
 Year: 2016. Number of samples: 252. Loss: [9.64839974e-01 3.49709169e-02 1.89109206e-04]. Accuracy: [9.94507227e-01 5.22082571e-03 2.71947779e-04].
-Total return: 19.01 %. Annualized return: 1.76 %.
+Total return: 63.00 %. Annualized return: 5.01 %.
 
 STOCK: NKE
 Year: 2007. Number of samples: 251. Loss: [9.99837004e-01 1.61956286e-04 1.03929773e-06]. Accuracy: [9.99998005e-01 1.68094198e-06 3.14029335e-07].
@@ -257,7 +257,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99970504e-01 5.39261562e-06 2.41029
 Year: 2014. Number of samples: 252. Loss: [9.97654722e-01 1.59362377e-04 2.18591518e-03]. Accuracy: [9.99763059e-01 1.20347212e-04 1.16594113e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99947350e-01 3.62202927e-05 1.64298231e-05]. Accuracy: [9.99973289e-01 2.66455319e-05 6.57503034e-08].
 Year: 2016. Number of samples: 252. Loss: [9.99975261e-01 2.47062572e-05 3.24154870e-08]. Accuracy: [9.99817720e-01 1.58622358e-04 2.36573242e-05].
-Total return: 109.66 %. Annualized return: 7.68 %.
+Total return: 265.84 %. Annualized return: 13.85 %.
 
 STOCK: PFE
 Year: 2007. Number of samples: 251. Loss: [9.86044024e-01 3.20901812e-04 1.36350743e-02]. Accuracy: [8.35015923e-01 1.32891480e-04 1.64851185e-01].
@@ -270,7 +270,7 @@ Year: 2013. Number of samples: 252. Loss: [9.94773305e-01 2.28416570e-06 5.22441
 Year: 2014. Number of samples: 252. Loss: [9.99774417e-01 8.14774451e-05 1.44105385e-04]. Accuracy: [9.99998628e-01 1.17365179e-06 1.98484643e-07].
 Year: 2015. Number of samples: 252. Loss: [9.99998542e-01 3.87569244e-07 1.06997171e-06]. Accuracy: [9.99234050e-01 5.16008395e-04 2.49941612e-04].
 Year: 2016. Number of samples: 252. Loss: [9.99958169e-01 4.17382962e-05 9.27101953e-08]. Accuracy: [9.99966160e-01 3.08509806e-05 2.98928974e-06].
-Total return: 34.50 %. Annualized return: 3.01 %.
+Total return: 75.52 %. Annualized return: 5.79 %.
 
 STOCK: PG
 Year: 2007. Number of samples: 251. Loss: [9.99858080e-01 1.25451854e-05 1.29374488e-04]. Accuracy: [9.99997877e-01 1.91340990e-06 2.09324749e-07].
@@ -283,7 +283,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99971556e-01 3.95632995e-07 2.80485
 Year: 2014. Number of samples: 252. Loss: [0.85412586 0.13723935 0.00863478]. Accuracy: [9.99927030e-01 7.00622592e-05 2.90748710e-06].
 Year: 2015. Number of samples: 252. Loss: [9.99934229e-01 2.14937278e-07 6.55559114e-05]. Accuracy: [9.99993384e-01 2.47702213e-06 4.13931163e-06].
 Year: 2016. Number of samples: 252. Loss: [9.94374595e-01 5.62314336e-03 2.26135423e-06]. Accuracy: [9.99630137e-01 3.69256803e-04 6.05959243e-07].
-Total return: 3.47 %. Annualized return: 0.34 %.
+Total return: 27.77 %. Annualized return: 2.48 %.
 
 STOCK: TRV
 Year: 2007. Number of samples: 251. Loss: [0.99708725 0.00129885 0.0016139 ]. Accuracy: [9.99558381e-01 4.08549930e-04 3.30690537e-05].
@@ -296,7 +296,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99963423e-01 1.17292057e-06 3.54038
 Year: 2014. Number of samples: 252. Loss: [9.99869139e-01 1.15888667e-04 1.49724141e-05]. Accuracy: [9.99770027e-01 2.21731226e-04 8.24136268e-06].
 Year: 2015. Number of samples: 252. Loss: [9.99729411e-01 1.98127709e-04 7.24610577e-05]. Accuracy: [9.98871419e-01 1.11978497e-03 8.79643226e-06].
 Year: 2016. Number of samples: 252. Loss: [9.70112436e-01 2.98819409e-02 5.62294086e-06]. Accuracy: [9.99997606e-01 3.39081229e-07 2.05517787e-06].
-Total return: 41.90 %. Annualized return: 3.56 %.
+Total return: 176.29 %. Annualized return: 10.70 %.
 
 STOCK: UNH
 Year: 2007. Number of samples: 251. Loss: [9.99993108e-01 6.21825870e-06 6.73520333e-07]. Accuracy: [9.98824040e-01 1.17356000e-03 2.40024286e-06].
@@ -309,7 +309,7 @@ Year: 2013. Number of samples: 252. Loss: [9.98040312e-01 1.67810927e-04 1.79187
 Year: 2014. Number of samples: 252. Loss: [9.99836005e-01 7.09552620e-06 1.56899614e-04]. Accuracy: [9.99270980e-01 9.11630177e-06 7.19903415e-04].
 Year: 2015. Number of samples: 252. Loss: [9.99894714e-01 2.03480418e-05 8.49381287e-05]. Accuracy: [9.99863299e-01 1.12821918e-04 2.38787663e-05].
 Year: 2016. Number of samples: 252. Loss: [4.13362113e-01 5.86631899e-01 5.98749586e-06]. Accuracy: [9.78983636e-01 2.10054977e-02 1.08661813e-05].
-Total return: 8.05 %. Annualized return: 0.78 %.
+Total return: 67.25 %. Annualized return: 5.28 %.
 
 STOCK: UTX
 Year: 2007. Number of samples: 251. Loss: [9.99961387e-01 1.90196289e-05 1.95935440e-05]. Accuracy: [9.99992604e-01 4.76519038e-06 2.63118223e-06].
@@ -322,7 +322,7 @@ Year: 2013. Number of samples: 252. Loss: [9.95264943e-01 3.82841836e-06 4.73122
 Year: 2014. Number of samples: 252. Loss: [9.99984908e-01 1.95138643e-06 1.31409773e-05]. Accuracy: [9.99996761e-01 2.58966641e-07 2.98011113e-06].
 Year: 2015. Number of samples: 252. Loss: [9.99967353e-01 4.86542467e-06 2.77815718e-05]. Accuracy: [9.99999843e-01 1.41845551e-07 1.46846568e-08].
 Year: 2016. Number of samples: 252. Loss: [9.99978308e-01 1.46432176e-05 7.04848808e-06]. Accuracy: [9.99946320e-01 3.08386584e-06 5.05958672e-05].
-Total return: 15.29 %. Annualized return: 1.43 %.
+Total return: 9.88 %. Annualized return: 0.95 %.
 
 STOCK: VZ
 Year: 2007. Number of samples: 251. Loss: [9.96046407e-01 3.95278469e-03 8.07914818e-07]. Accuracy: [9.98195717e-01 1.49783972e-03 3.06443585e-04].
@@ -335,7 +335,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99776329e-01 5.29993329e-07 2.23140
 Year: 2014. Number of samples: 252. Loss: [9.96816064e-01 2.83057655e-06 3.18110547e-03]. Accuracy: [9.98969822e-01 1.02977522e-03 4.02748054e-07].
 Year: 2015. Number of samples: 252. Loss: [9.99967430e-01 3.21941509e-05 3.75445320e-07]. Accuracy: [9.48888450e-01 5.11091417e-02 2.40876143e-06].
 Year: 2016. Number of samples: 252. Loss: [9.99459276e-01 5.40148739e-04 5.75382648e-07]. Accuracy: [9.99999008e-01 4.80060808e-07 5.12307181e-07].
-Total return: 21.52 %. Annualized return: 1.97 %.
+Total return: 50.10 %. Annualized return: 4.15 %.
 
 STOCK: WMT
 Year: 2007. Number of samples: 251. Loss: [9.99992603e-01 1.88203662e-07 7.20872170e-06]. Accuracy: [9.99996146e-01 3.66548127e-07 3.48783387e-06].
@@ -348,7 +348,7 @@ Year: 2013. Number of samples: 252. Loss: [9.99753503e-01 9.53377220e-05 1.51159
 Year: 2014. Number of samples: 252. Loss: [9.88813184e-01 7.17013547e-06 1.11796458e-02]. Accuracy: [9.68905546e-01 9.38425630e-05 3.10006115e-02].
 Year: 2015. Number of samples: 252. Loss: [9.98779599e-01 1.20813331e-03 1.22672086e-05]. Accuracy: [9.99607709e-01 3.82045087e-04 1.02458462e-05].
 Year: 2016. Number of samples: 252. Loss: [9.99998853e-01 7.99636444e-08 1.06723021e-06]. Accuracy: [9.99945961e-01 8.33524041e-08 5.39558772e-05].
-Total return: 17.35 %. Annualized return: 1.61 %.
+Total return: 137.54 %. Annualized return: 9.04 %.
 
 STOCK: XOM
 Year: 2007. Number of samples: 251. Loss: [3.02289638e-01 6.97509368e-01 2.00994347e-04]. Accuracy: [9.98769096e-01 1.22937955e-03 1.52473873e-06].
@@ -361,6 +361,6 @@ Year: 2013. Number of samples: 252. Loss: [9.99809914e-01 1.58743657e-07 1.89927
 Year: 2014. Number of samples: 252. Loss: [9.87248435e-01 5.47012269e-06 1.27460946e-02]. Accuracy: [9.99904543e-01 4.14982669e-07 9.50420330e-05].
 Year: 2015. Number of samples: 252. Loss: [9.99935983e-01 1.57017217e-05 4.83156748e-05]. Accuracy: [0.99189171 0.00135484 0.00675345].
 Year: 2016. Number of samples: 252. Loss: [9.99925658e-01 1.84867712e-05 5.58549777e-05]. Accuracy: [9.99984372e-01 1.23325622e-06 1.43949646e-05].
-Total return: 38.67 %. Annualized return: 3.32 %.
+Total return: 46.15 %. Annualized return: 3.87 %.
 
 Number of samples: 70504. Total Loss: [0.9615412  0.02391254 0.01454626]. Total accuracy: [0.96251089 0.01700784 0.02048127].

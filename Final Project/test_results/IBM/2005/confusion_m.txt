@@ -1,4 +1,0 @@
-      Hold  Buy Sell
-Hold:  115   47   59
- Buy:    7    8    0
-Sell:    4    0   12

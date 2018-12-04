@@ -103,7 +103,7 @@ def train(X_train, Y_train, X_test, Y_test, batch_size, epochs):
     params['metric'] = 'multi_logloss'
     params['feature_fraction'] = 0.8
     params['bagging_fraction'] = 0.8
-    params['num_leaves'] = 100
+    params['num_leaves'] = 3
 
     model = lgb.train(params, train_set, 200)
 
@@ -136,28 +136,6 @@ class Report:
         
         return
 
-    @staticmethod
-    def save_training_graph(save_path, history):
-        # summarize history for accuracy
-        plt.plot(history.history['acc'])
-        plt.plot(history.history['val_acc'])
-        plt.title('model accuracy')
-        plt.ylabel('accuracy')
-        plt.xlabel('epoch')
-        plt.legend(['train', 'test'], loc='upper left')
-        plt.savefig(os.path.join(save_path, 'acc.png'))
-        plt.clf()
-
-        # summarize history for loss
-        plt.plot(history.history['loss'])
-        plt.plot(history.history['val_loss'])
-        plt.title('model loss')
-        plt.ylabel('loss')
-        plt.xlabel('epoch')
-        plt.legend(['train', 'test'], loc='upper left')
-        plt.savefig(os.path.join(save_path, 'loss.png'))
-        return 
-
 
 def train_process(X_train, Y_train, X_test, Y_test, dates, prices, year, results_dict):
     
@@ -168,13 +146,17 @@ def train_process(X_train, Y_train, X_test, Y_test, dates, prices, year, results
         os.makedirs(save_path)
         
     score = test(model, X_test, Y_test)
+    print("LOL:")
+    # print(score[0])
+    print(score[1])
+    print()
     results_dict['test_results'] += [(score[0], score[1], X_test.shape[0])]
 
     y_pred = model.predict(X_test)
     y_pred = y_pred.argmax(axis=1)
     
     conf_matrix_temp = confusion_matrix(Y_test, y_pred)
-    Report.write_confusion_and_classif(conf_matrix_temp, save_path, Y_test, y_pred)
+    # Report.write_confusion_and_classif(conf_matrix_temp, save_path, Y_test, y_pred)
 
     results_dict['conf_matrix'] += conf_matrix_temp
     results_dict['Y_test_sum'] = np.append(results_dict['Y_test_sum'], Y_test)
@@ -184,10 +166,10 @@ def train_process(X_train, Y_train, X_test, Y_test, dates, prices, year, results
         prediction_dict[date] = (price, pred)
     results_dict['prediction'] = prediction_dict
     
-    Report.write_confusion_and_classif(results_dict['conf_matrix'], RESULTS_DIR, results_dict['Y_test_sum'], results_dict['y_pred_sum'])
+    # Report.write_confusion_and_classif(results_dict['conf_matrix'], RESULTS_DIR, results_dict['Y_test_sum'], results_dict['y_pred_sum'])
     
-    with open(RESULTS_DIR + 'results.txt', 'a') as f:
-        f.write('Year: {}. Number of samples: {}. Loss: {}. Accuracy: {}.\n'.format(str(year), X_test.shape[0], score[0], score[1]))
+    # with open(RESULTS_DIR + 'results.txt', 'a') as f:
+    #     f.write('Year: {}. Number of samples: {}. Loss: {}. Accuracy: {}.\n'.format(str(year), X_test.shape[0], score[0], score[1]))
 
 
 class Financial_Evaluation:
@@ -231,8 +213,8 @@ class Financial_Evaluation:
 
 if __name__ == '__main__':
 
-    with open('./lightgbm_results/results.txt', 'w') as f:
-        f.write('')
+    # with open('./lightgbm_results/results.txt', 'w') as f:
+        # f.write('')
 
     results_dict = multiprocessing.Manager().dict()
     results_dict['test_results'] = []
@@ -245,8 +227,8 @@ if __name__ == '__main__':
     ann_return = []
     for s_ind, (i_path, l_path, s_name) in enumerate(zip(images_paths, labels_paths, stock_names)):
         print("STOCK: %s" % s_name)
-        with open(RESULTS_DIR + 'results.txt', 'a') as f:
-                f.write('\nSTOCK: {}\n'.format(s_name))
+        # with open(RESULTS_DIR + 'results.txt', 'a') as f:
+        #         f.write('\nSTOCK: {}\n'.format(s_name))
 
         data = read_data(i_path, l_path, s_name)
 
@@ -274,5 +256,5 @@ if __name__ == '__main__':
     num_samples = sum([x[2] for x in results_dict['test_results']])
     total_loss = sum([x[0] * x[2] for x in results_dict['test_results']]) / num_samples
     total_acc = sum([x[1] * x[2] for x in results_dict['test_results']]) / num_samples
-    with open(RESULTS_DIR + 'results.txt', 'a') as f:
-        f.write('\nNumber of samples: {}. Total Loss: {}. Total accuracy: {}.\n'.format(num_samples, total_loss, total_acc))
+    # with open(RESULTS_DIR + 'results.txt', 'a') as f:
+    #     f.write('\nNumber of samples: {}. Total Loss: {}. Total accuracy: {}.\n'.format(num_samples, total_loss, total_acc))
